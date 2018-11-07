@@ -1,0 +1,265 @@
+region_code,region_name,region_description,region_type_code,country_code_2,country_code_3,country_currency,country_currency_code,country_landlocked,country_distance_port,country_geo_group_code,country_sub_continent_id,country_legal_origin_code,country_code_2
+1A,Arab World,,GRP,1A,,,,,,,,,1A
+1W,World,,WLD,1W,,,,,,,,,1W
+4E,East Asia & Pacific (excluding high income),,GRP,4E,,,,,,,,,4E
+7E,Europe & Central Asia (excluding high income),,GRP,7E,,,,,,,,,7E
+8S,South Asia,,GRP,8S,,,,,,,,,8S
+AD,Andorra,,CNT,AD,AND,,,,,,39,,AD
+AE,United Arab Emirates,,CNT,AE,ARE,Dirham,AED,0,109,mena,145,uk,AE
+AF,Afghanistan,,CNT,AF,AFG,Afghani,AFN,1,304,sasia,34,fr,AF
+AG,Antigua and Barbuda,,CNT,AG,ATG,,,0,,,,,AG
+AL,Albania,,CNT,AL,ALB,Lek,ALL,0,64,eur,39,fr,AL
+AM,Armenia,,CNT,AM,ARM,Dram,AMD,1,65,eur,145,fr,AM
+AO,Angola,,CNT,AO,AGO,Kwanza,AOA,0,420,ssaf,17,uk,AO
+AR,Argentina,,CNT,AR,ARG,Peso,ARS,0,626,sam,5,fr,AR
+AS,American Samoa,,CNT,AS,ASM,,,,,,,,AS
+AT,Austria,,CNT,AT,AUT,Euro,EUR,1,109,eur,155,de,AT
+AU,Australia,,CNT,AU,AUS,Dollar,AUD,0,1043,easia,53,uk,AU
+AW,Aruba,,CNT,AW,ABW,,,,,,,,AW
+AZ,Azerbaijan,,CNT,AZ,AZE,Manat,AZN,1,111,eur,145,fr,AZ
+B8,Central Europe and the Baltics,,GRP,B8,,,,,,,,,B8
+BA,Bosnia and Herzegovina,,CNT,BA,BIH,Mark,BAM,0,85,eur,39,de,BA
+BB,Barbados,,CNT,BB,BRB,,,,,,,,BB
+BD,Bangladesh,,CNT,BD,BGD,Taka,BDT,0,143,sasia,34,uk,BD
+BE,Belgium,,CNT,BE,BEL,Euro,EUR,0,68,eur,155,fr,BE
+BF,Burkina Faso,,CNT,BF,BFA,Franc,CFA,1,197,ssaf,11,fr,BF
+BG,Bulgaria,,CNT,BG,BGR,Lev,BGN,0,125,eur,151,de,BG
+BH,Bahrain,,CNT,BH,BHR,Dinar,BHD,0,10,mena,145,uk,BH
+BI,Burundi,,CNT,BI,BDI,Franc,BIF,1,63,ssaf,14,fr,BI
+BJ,Benin,,CNT,BJ,BEN,Franc,CFA,0,126,ssaf,11,fr,BJ
+BM,Bermuda,,CNT,BM,BMU,,,,,,,,BM
+BN,Brunei Darussalam,,CNT,BN,BRN,,,,,,,,BN
+BO,Bolivia,,CNT,BO,BOL,Boliviano,BOB,1,394,sam,5,fr,BO
+BR,Brazil,,CNT,BR,BRA,Real,BRL,0,1097,sam,5,fr,BR
+BS,"Bahamas, The",,CNT,BS,BHS,,,,,,,,BS
+BT,Bhutan,,CNT,BT,BTN,Ngultrum,BTN,1,81,sasia,34,uk,BT
+BW,Botswana,,CNT,BW,BWA,Pula,BWP,1,291,ssaf,18,uk,BW
+BY,Belarus,,CNT,BY,BLR,Ruble,BYR,1,171,eur,151,de,BY
+BZ,Belize,,CNT,BZ,BLZ,,,,,,,,BZ
+CA,Canada,,CNT,CA,CAN,Dollar,CAD,0,1188,nam,21,uk,CA
+CD,"Congo, Dem. Rep.",,CNT,CD,COD,Franc,CDF,,576,ssaf,17,fr,CD
+CF,Central African Republic,,CNT,CF,CAF,Franc,CFA,1,297,ssaf,17,fr,CF
+CG,"Congo, Rep.",,CNT,CG,COG,Franc,CFA,0,220,ssaf,17,fr,CG
+CH,Switzerland,,CNT,CH,CHE,Franc,CHF,1,76,eur,155,de,CH
+CI,Cote d'Ivoire,,CNT,CI,CIV,Franc,CFA,0,214,ssaf,11,fr,CI
+CL,Chile,,CNT,CL,CHL,Peso,CLP,0,327,sam,5,fr,CL
+CM,Cameroon,,CNT,CM,CMR,Franc,CFA,0,259,ssaf,17,fr,CM
+CN,China,,CNT,CN,CHN,Yuan,CNY,0,1164,easia,30,de,CN
+CO,Colombia,,CNT,CO,COL,Peso,CLP,0,402,sam,5,fr,CO
+CR,Costa Rica,,CNT,CR,CRI,Colon,CRC,0,85,cam,13,fr,CR
+CU,Cuba,,CNT,CU,CUB,,,0,,,29,,CU
+CV,Cabo Verde,,CNT,CV,CPV,Escudo,CVE,0,24,ssaf,11,fr,CV
+CW,Curacao,,CNT,CW,CUW,,,,,,,,CW
+CY,Cyprus,,CNT,CY,CYP,Euro,EUR,0,36,eur,145,uk,CY
+CZ,Czech Republic,,CNT,CZ,CZE,Koruna,CZK,1,106,eur,151,de,CZ
+DE,Germany,,CNT,DE,DEU,Euro,EUR,0,225,eur,155,de,DE
+DJ,Djibouti,,CNT,DJ,DJI,Franc,DJF,0,57,mena,14,fr,DJ
+DK,Denmark,,CNT,DK,DNK,Krone,DKK,0,78,eur,154,sc,DK
+DM,Dominica,,CNT,DM,DMA,,,,,,,,DM
+DO,Dominican Republic,,CNT,DO,DOM,Peso,DOP,0,83,cam,29,fr,DO
+DZ,Algeria,,CNT,DZ,DZA,Dinar,DZD,0,580,mena,15,fr,DZ
+EC,Ecuador,,CNT,EC,ECU,Dollar,USD,0,197,sam,5,fr,EC
+EE,Estonia,,CNT,EE,EST,Euro,EUR,0,80,eur,154,de,EE
+EG,"Egypt, Arab Rep.",,CNT,EG,EGY,Pound,EGP,0,376,mena,15,fr,EG
+ER,Eritrea,,CNT,ER,ERI,,,,,,,,ER
+ES,Spain,,CNT,ES,ESP,Euro,EUR,0,268,eur,39,fr,ES
+ET,Ethiopia,,CNT,ET,ETH,Birr,ETB,1,399,ssaf,14,fr,ET
+EU,European Union,,GRP,EU,,,,,,,,,EU
+F1,Fragile and conflict affected situations,,GRP,F1,,,,,,,,,F1
+FI,Finland,,CNT,FI,FIN,Euro,EUR,0,218,eur,154,sc,FI
+FJ,Fiji,,CNT,FJ,FJI,,,,,,,,FJ
+FM,"Micronesia, Fed. Sts.",,CNT,FM,FSM,,,,,,,,FM
+FO,Faroe Islands,,CNT,FO,FRO,,,,,,,,FO
+FR,France,,CNT,FR,FRA,Euro,EUR,0,278,eur,155,fr,FR
+GA,Gabon,,CNT,GA,GAB,Franc,CFA,0,195,ssaf,17,fr,GA
+GB,United Kingdom,,CNT,GB,GBR,Pound,GBP,0,186,eur,154,uk,GB
+GD,Grenada,,CNT,GD,GRD,,,,,,,,GD
+GE,Georgia,,CNT,GE,GEO,Lari,GEL,0,99,eur,145,de,GE
+GH,Ghana,,CNT,GH,GHA,Cedi,GHS,0,184,ssaf,11,uk,GH
+GI,Gibraltar,,CNT,GI,GIB,,,,,,,,GI
+GL,Greenland,,CNT,GL,GRL,,,,,,,,GL
+GM,"Gambia, The",,CNT,GM,GMB,Dalasi,GMD,0,40,ssaf,11,uk,GM
+GN,Guinea,,CNT,GN,GIN,Franc,GNF,0,186,ssaf,11,fr,GN
+GQ,Equatorial Guinea,,CNT,GQ,GNQ,Franc,CFA,0,63,ssaf,17,fr,GQ
+GR,Greece,,CNT,GR,GRC,Euro,EUR,0,136,eur,39,fr,GR
+GT,Guatemala,,CNT,GT,GTM,Quetzal ,GTQ,0,124,cam,13,fr,GT
+GU,Guam,,CNT,GU,GUM,,,,,,,,GU
+GW,Guinea-Bissau,,CNT,GW,GNB,Franc,CFA,0,71,ssaf,11,fr,GW
+GY,Guyana,,CNT,GY,GUY,Dollar,GYD,0,174,sam,5,uk,GY
+HK,"Hong Kong SAR, China",,CNT,HK,HKG,Dollar,HKD,0,12,easia,30,uk,HK
+HN,Honduras,,CNT,HN,HND,Lempira,HNL,0,126,cam,13,fr,HN
+HR,Croatia,,CNT,HR,HRV,Kuna,HRK,0,89,eur,39,de,HR
+HT,Haiti,,CNT,HT,HTI,Gourde,HTG,0,63,cam,29,fr,HT
+HU,Hungary,,CNT,HU,HUN,Forint,HUF,1,115,eur,151,de,HU
+ID,Indonesia,,CNT,ID,IDN,Rupiah,IDR,0,523,easia,35,fr,ID
+IE,Ireland,,CNT,IE,IRL,Euro,EUR,0,100,eur,154,uk,IE
+IL,Israel,,CNT,IL,ISR,Shekel,ILS,0,55,mena,145,uk,IL
+IM,Isle of Man,,CNT,IM,IMN,,,,,,,,IM
+IN,India,,CNT,IN,IND,Rupi,INR,0,682,sasia,34,uk,IN
+IQ,Iraq,,CNT,IQ,IRQ,Dinar,IQD,0,249,mena,145,fr,IQ
+IR,"Iran, Islamic Rep.",,CNT,IR,IRN,Rial,IRR,0,483,mena,34,fr,IR
+IS,Iceland,,CNT,IS,ISL,Krone,ISK,0,121,eur,154,sc,IS
+IT,Italy,,CNT,IT,ITA,Euro,EUR,0,206,eur,39,fr,IT
+JG,Channel Islands,,CNT,JG,CHI,,,,,,,,JG
+JM,Jamaica,,CNT,JM,JAM,Dollar,JMD,0,39,cam,29,uk,JM
+JO,Jordan,,CNT,JO,JOR,Dinar,JOD,0,114,mena,145,fr,JO
+JP,Japan,,CNT,JP,JPN,Yen,JPY,0,231,easia,30,de,JP
+KE,Kenya,,CNT,KE,KEN,Shilling ,KES,0,287,ssaf,14,uk,KE
+KG,Kyrgyz Republic,,CNT,KG,KGZ,Som,KGS,1,168,casia,143,fr,KG
+KH,Cambodia,,CNT,KH,KHM,Riel,KHR,0,160,easia,35,fr,KH
+KI,Kiribati,,CNT,KI,KIR,,,,,,,,KI
+KM,Comoros,,CNT,KM,COM,Franc,KMF,0,16,ssaf,14,fr,KM
+KN,St. Kitts and Nevis,,CNT,KN,KNA,,,,,,,,KN
+KP,"Korea, Dem. Peopleâ€™s Rep.",,CNT,KP,PRK,,,,,,,,KP
+KR,"Korea, Rep.",,CNT,KR,KOR,Won,KRW,0,119,easia,30,de,KR
+KW,Kuwait,,CNT,KW,KWT,Dinar,KWD,0,50,mena,145,fr,KW
+KY,Cayman Islands,,CNT,KY,CYM,,,,,,,,KY
+KZ,Kazakhstan,,CNT,KZ,KAZ,Tenge,KZT,1,620,casia,143,fr,KZ
+LA,Lao PDR,,CNT,LA,LAO,Kip,LAK,1,183,easia,35,fr,LA
+LB,Lebanon,,CNT,LB,LBN,Lira,LBP,0,38,mena,145,fr,LB
+LC,St. Lucia,,CNT,LC,LCA,,,,,,,,LC
+LI,Liechtenstein,,CNT,LI,LIE,,,,,,,,LI
+LK,Sri Lanka,,CNT,LK,LKA,Rupi,LKR,0,96,sasia,34,uk,LK
+LR,Liberia,,CNT,LR,LBR,Dollar,LRD,0,126,ssaf,11,uk,LR
+LS,Lesotho,,CNT,LS,LSO,Loti,LSL,1,66,ssaf,18,uk,LS
+LT,Lithuania,,CNT,LT,LTU,Euro,EUR,0,96,eur,154,fr,LT
+LU,Luxembourg,,CNT,LU,LUX,Euro,EUR,1,19,eur,155,fr,LU
+LV,Latvia,,CNT,LV,LVA,Euro,EUR,0,96,eur,154,de,LV
+LY,Libya,,CNT,LY,LBY,Dinar,LYD,0,499,mena,15,fr,LY
+MA,Morocco,,CNT,MA,MAR,Dirham,MAD,0,317,mena,15,fr,MA
+MC,Monaco,,CNT,MC,MCO,,,,,,,,MC
+MD,Moldova,,CNT,MD,MDA,Leu,MDL,1,69,eur,151,fr,MD
+ME,Montenegro,,CNT,ME,MNE,Euro,EUR,0,120,eur,39,fr,ME
+MF,St. Martin (French part),,CNT,MF,MAF,,,,,,,,MF
+MG,Madagascar,,CNT,MG,MDG,Ariary,MGA,0,288,ssaf,14,fr,MG
+MH,Marshall Islands,,CNT,MH,MHL,,,,,,,,MH
+MK,"Macedonia, FYR",,CNT,MK,MKD,Dinar,MKD,1,60,eur,39,fr,MK
+ML,Mali,,CNT,ML,MLI,Franc,CFA,1,419,ssaf,11,fr,ML
+MM,Myanmar,,CNT,MM,MMR,Kyat,MMK,0,310,easia,35,uk,MM
+MN,Mongolia,,CNT,MN,MNG,Tughrik,MNT,1,471,easia,30,de,MN
+MO,"Macao SAR, China",,CNT,MO,MAC,,,,,,,,MO
+MP,Northern Mariana Islands,,CNT,MP,MNP,,,,,,,,MP
+MR,Mauritania,,CNT,MR,MRT,Ugiya,MRO,0,382,ssaf,11,fr,MR
+MT,Malta,,CNT,MT,MLT,Euro,EUR,0,7,eur,39,fr,MT
+MU,Mauritius,,CNT,MU,MUS,Rupi,MUR,0,17,ssaf,14,fr,MU
+MV,Maldives,,CNT,MV,MDV,,,,,,,,MV
+MW,Malawi,,CNT,MW,MWI,Kwacha,MWK,1,129,ssaf,14,uk,MW
+MX,Mexico,,CNT,MX,MEX,Peso,MXN,0,528,nam,13,fr,MX
+MY,Malaysia,,CNT,MY,MYS,Ringgit,MYR,0,216,easia,35,uk,MY
+MZ,Mozambique,,CNT,MZ,MOZ,Metical,MZN,0,337,ssaf,14,fr,MZ
+NA,Namibia,,CNT,NA,NAM,Dollar,NAD,0,342,ssaf,18,uk,NA
+NC,New Caledonia,,CNT,NC,NCL,,,,,,,,NC
+NE,Niger,,CNT,NE,NER,Franc,CFA,1,423,ssaf,11,fr,NE
+NG,Nigeria,,CNT,NG,NGA,Naira,NGN,0,362,ssaf,11,uk,NG
+NI,Nicaragua,,CNT,NI,NIC,Cordoba,NIO,0,136,cam,13,fr,NI
+NL,Netherlands,,CNT,NL,NLD,Euro,EUR,0,77,eur,155,fr,NL
+NO,Norway,,CNT,NO,NOR,Krone,NOK,0,214,eur,154,sc,NO
+NP,Nepal,,CNT,NP,NPL,Rupi,NPR,1,144,sasia,34,uk,NP
+NR,Nauru,,CNT,NR,NRU,,,,,,,,NR
+NZ,New Zealand,,CNT,NZ,NZL,Dollar,NZD,0,195,easia,53,uk,NZ
+OE,OECD members,,GRP,OE,,,,,,,,,OE
+OM,Oman,,CNT,OM,OMN,Rial,OMR,0,173,mena,145,fr,OM
+PA,Panama,,CNT,PA,PAN,Balboa,PAB,0,103,cam,13,fr,PA
+PE,Peru,,CNT,PE,PER,Sol,PEN,0,426,sam,5,fr,PE
+PF,French Polynesia,,CNT,PF,PYF,,,,,,,,PF
+PG,Papua New Guinea,,CNT,PG,PNG,Kina,PGK,0,256,easia,54,uk,PG
+PH,Philippines,,CNT,PH,PHL,Peso,PHP,0,206,easia,35,fr,PH
+PK,Pakistan,,CNT,PK,PAK,Rupi,PKR,0,353,sasia,34,uk,PK
+PL,Poland,,CNT,PL,POL,Zloty,PLN,0,210,eur,151,de,PL
+PR,Puerto Rico,,CNT,PR,PRI,,,,,,,,PR
+PS,West Bank and Gaza,,CNT,PS,PSE,,,,,,,,PS
+PT,Portugal,,CNT,PT,PRT,Euro,EUR,0,114,eur,39,fr,PT
+PW,Palau,,CNT,PW,PLW,,,,,,,,PW
+PY,Paraguay,,CNT,PY,PRY,Guarani,PYG,1,240,sam,5,fr,PY
+QA,Qatar,,CNT,QA,QAT,Rial,QAR,0,40,mena,145,fr,QA
+RO,Romania,,CNT,RO,ROU,,,0,,eur,151,fr,RO
+RS,Serbia,,CNT,RS,SRB,Dinar,RSD,1,120,eur,39,fr,RS
+RU,Russian Federation,,CNT,RU,RUS,Ruble,RUB,0,1554,eur,151,fr,RU
+RW,Rwanda,,CNT,RW,RWA,Franc,RWF,1,61,ssaf,14,fr,RW
+S1,Small states,,GRP,S1,,,,,,,,,S1
+S2,Pacific island small states,,GRP,S2,,,,,,,,,S2
+S3,Caribbean small states,,GRP,S3,,,,,,,,,S3
+S4,Other small states,,GRP,S4,,,,,,,,,S4
+SA,Saudi Arabia,,CNT,SA,SAU,Rial,SAR,0,552,mena,145,uk,SA
+SB,Solomon Islands,,CNT,SB,SLB,,,,,,,,SB
+SC,Seychelles,,CNT,SC,SYC,,,,,,,,SC
+SD,Sudan,,CNT,SD,SDN,Pound,SDG,0,595,ssaf,15,uk,SD
+SE,Sweden,,CNT,SE,SWE,Krone,SEK,0,252,eur,154,sc,SE
+SG,Singapore,,CNT,SG,SGP,Dollar,SGD,0,10,easia,35,uk,SG
+SI,Slovenia,,CNT,SI,SVN,Euro,EUR,0,54,eur,39,de,SI
+SK,Slovak Republic,,CNT,SK,SVK,Euro,EUR,1,83,eur,151,de,SK
+SL,Sierra Leone,,CNT,SL,SLE,Leone,SLL,0,102,ssaf,11,uk,SL
+SM,San Marino,,CNT,SM,SMR,,,,,,,,SM
+SN,Senegal,,CNT,SN,SEN,Franc,CFA,0,167,ssaf,11,fr,SN
+SO,Somalia,,CNT,SO,SOM,,,,,,,,SO
+SR,Suriname,,CNT,SR,SUR,Dollar,SRD,0,152,sam,5,fr,SR
+SS,South Sudan,,CNT,SS,SSD,,,,,,,,SS
+ST,Sao Tome and Principe,,CNT,ST,STP,,,,,,,,ST
+SV,El Salvador,,CNT,SV,SLV,Dollar,USD,0,55,cam,13,fr,SV
+SX,Sint Maarten (Dutch part),,CNT,SX,SXM,,,,,,,,SX
+SY,Syrian Arab Republic,,CNT,SY,SYR,Pound,SYP,0,161,mena,145,fr,SY
+SZ,Swaziland,,CNT,SZ,SWZ,Lilangeni,SZL,1,50,ssaf,18,uk,SZ
+T2,Latin America & the Caribbean (IDA & IBRD countries),,GRP,T2,,,,,,,,,T2
+T3,Middle East & North Africa (IDA & IBRD countries),,GRP,T3,,,,,,,,,T3
+T4,East Asia & Pacific (IDA & IBRD countries),,GRP,T4,,,,,,,,,T4
+T5,South Asia (IDA & IBRD),,GRP,T5,,,,,,,,,T5
+T6,Sub-Saharan Africa (IDA & IBRD countries),,GRP,T6,,,,,,,,,T6
+T7,Europe & Central Asia (IDA & IBRD countries),,GRP,T7,,,,,,,,,T7
+TC,Turks and Caicos Islands,,CNT,TC,TCA,,,,,,,,TC
+TD,Chad,,CNT,TD,TCD,Franc,CFA,1,426,ssaf,17,fr,TD
+TG,Togo,,CNT,TG,TGO,Franc,CFA,0,90,ssaf,11,fr,TG
+TH,Thailand,,CNT,TH,THA,Baht,THB,0,269,easia,35,uk,TH
+TJ,Tajikistan,,CNT,TJ,TJK,Somoni,TJS,1,142,casia,143,fr,TJ
+TL,Timor-Leste,,CNT,TL,TLS,,,0,,easia,35,fr,TL
+TM,Turkmenistan,,CNT,TM,TKM,Manat,TMT,1,263,casia,143,fr,TM
+TN,Tunisia,,CNT,TN,TUN,Dinar,TND,0,152,mena,15,fr,TN
+TO,Tonga,,CNT,TO,TON,,,,,,,,TO
+TR,Turkey,,CNT,TR,TUR,Lira,TRY,0,332,eur,145,fr,TR
+TT,Trinidad and Tobago,,CNT,TT,TTO,Dollar,TTD,0,27,cam,29,uk,TT
+TV,Tuvalu,,CNT,TV,TUV,,,,,,,,TV
+TZ,Tanzania,,CNT,TZ,TZA,Shilling,TZS,0,366,ssaf,14,uk,TZ
+UA,Ukraine,,CNT,UA,UKR,Hryvnia,UAH,0,292,eur,151,fr,UA
+UG,Uganda,,CNT,UG,UGA,Shilling ,UGX,1,185,ssaf,14,uk,UG
+US,United States,,CNT,US,USA,Dollar,USD,0,1161,nam,21,uk,US
+UY,Uruguay,,CNT,UY,URY,Peso,UYU,0,158,sam,5,fr,UY
+UZ,Uzbekistan,,CNT,UZ,UZB,Som,UZS,1,252,casia,143,fr,UZ
+V1,Pre-demographic dividend,,GRP,V1,,,,,,,,,V1
+V2,Early-demographic dividend,,GRP,V2,,,,,,,,,V2
+V3,Late-demographic dividend,,GRP,V3,,,,,,,,,V3
+V4,Post-demographic dividend,,GRP,V4,,,,,,,,,V4
+VC,St. Vincent and the Grenadines,,CNT,VC,VCT,,,,,,,,VC
+VE,"Venezuela, RB",,CNT,VE,VEN,Bolivar,VEF,0,359,sam,5,fr,VE
+VG,British Virgin Islands,,CNT,VG,VGB,,,,,,,,VG
+VI,Virgin Islands (U.S.),,CNT,VI,VIR,,,,,,,,VI
+VN,Vietnam,,CNT,VN,VNM,Dong,VND,0,216,easia,35,fr,VN
+VU,Vanuatu,,CNT,VU,VUT,,,,,,,,VU
+WS,Samoa,,CNT,WS,WSM,,,,,,,,WS
+XC,Euro area,,GRP,XC,,,,,,,,,XC
+XD,High income,,GRP,XD,,,,,,,,,XD
+XE,Heavily indebted poor countries (HIPC),,GRP,XE,,,,,,,,,XE
+XF,IBRD only,,GRP,XF,,,,,,,,,XF
+XG,IDA total,,GRP,XG,,,,,,,,,XG
+XH,IDA blend,,GRP,XH,,,,,,,,,XH
+XI,IDA only,,GRP,XI,,,,,,,,,XI
+XJ,Latin America & Caribbean (excluding high income),,GRP,XJ,,,,,,,,,XJ
+XK,Kosovo,,CNT,XK,XKX,,,,,eur,151,de,XK
+XL,Least developed countries: UN classification,,GRP,XL,,,,,,,,,XL
+XM,Low income,,GRP,XM,,,,,,,,,XM
+XN,Lower middle income,,GRP,XN,,,,,,,,,XN
+XO,Low & middle income,,GRP,XO,,,,,,,,,XO
+XP,Middle income,,GRP,XP,,,,,,,,,XP
+XQ,Middle East & North Africa (excluding high income),,GRP,XQ,,,,,,,,,XQ
+XT,Upper middle income,,GRP,XT,,,,,,,,,XT
+XU,North America,,GRP,XU,,,,,,,,,XU
+XY,Not classified,,GRP,XY,,,,,,,,,XY
+YE,"Yemen, Rep.",,CNT,YE,YEM,Rial,YER,0,278,mena,145,fr,YE
+Z4,East Asia & Pacific,,GRP,Z4,,,,,,,,,Z4
+Z7,Europe & Central Asia,,GRP,Z7,,,,,,,,,Z7
+ZA,South Africa,,CNT,ZA,ZAF,Rand,ZAR,0,415,ssaf,18,uk,ZA
+ZF,Sub-Saharan Africa (excluding high income),,GRP,ZF,,,,,,,,,ZF
+ZG,Sub-Saharan Africa,,GRP,ZG,,,,,,,,,ZG
+ZJ,Latin America & Caribbean,,GRP,ZJ,,,,,,,,,ZJ
+ZM,Zambia,,CNT,ZM,ZMB,Kwacha,ZMK,1,326,ssaf,14,uk,ZM
+ZQ,Middle East & North Africa,,GRP,ZQ,,,,,,,,,ZQ
+ZT,IDA & IBRD total,,GRP,ZT,,,,,,,,,ZT
+ZW,Zimbabwe,,CNT,ZW,ZWE,Dollar,ZWD,1,235,ssaf,14,uk,ZW

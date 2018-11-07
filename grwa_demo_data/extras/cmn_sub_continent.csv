@@ -1,0 +1,23 @@
+id,name,continent_id
+5,"South America",19
+11,"Western Africa",2
+13,"Central America",19
+14,"Eastern Africa",2
+15,"Northern Africa",2
+17,"Middle Africa",2
+18,"Southern Africa",2
+21,"Northern America",19
+29,Caribbean,19
+30,"Eastern Asia",142
+34,"Southern Asia",142
+35,"South-Eastern Asia",142
+39,"Southern Europe",150
+53,"Australia and New Zealand",9
+54,Melanesia,9
+57,Micronesia,9
+61,Polynesia,9
+143,"Central Asia",142
+145,"Western Asia",142
+151,"Eastern Europe",150
+154,"Northern Europe",150
+155,"Western Europe",150

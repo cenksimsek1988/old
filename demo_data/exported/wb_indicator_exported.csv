@@ -1,0 +1,91 @@
+wb_indicator_name,wb_indicator_api_code,wb_indicator_url,wb_indicator_type,wb_indicator_annual,wb_indicator_quarterly,wb_indicator_monthly,wb_indicator_update_date
+"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,http://api.worldbank.org/v2/countries/all/indicators/BM.KLT.DINV.WD.GD.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Current account balance (% of GDP)",BN.CAB.XOKA.GD.ZS,http://api.worldbank.org/v2/countries/all/indicators/BN.CAB.XOKA.GD.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Net capital account (BoP, current US$)",BN.TRF.KOGT.CD,http://api.worldbank.org/v2/countries/all/indicators/BN.TRF.KOGT.CD?per_page=9999&format=json,RGN,1,1,1,NULL
+"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,http://api.worldbank.org/v2/countries/all/indicators/BX.KLT.DINV.WD.GD.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Copper, $/mt, nominal$",COPPER,http://api.worldbank.org/v2/countries/all/indicators/COPPER?per_page=9999&format=json,WLD,1,1,1,NULL
+"Crude oil, Brendt, $/bbl, nominal$",CRUDE_BRENT,http://api.worldbank.org/v2/countries/all/indicators/CRUDE_BRENT?per_page=9999&format=json,WLD,1,1,1,NULL
+"Crude oil, avg, spot, $/bbl, nominal$",CRUDE_PETRO,http://api.worldbank.org/v2/countries/all/indicators/CRUDE_PETRO?per_page=9999&format=json,WLD,1,1,1,NULL
+"External debt stocks (% of exports of goods, services and primary income)",DT.DOD.DECT.EX.ZS,http://api.worldbank.org/v2/countries/all/indicators/DT.DOD.DECT.EX.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"External debt stocks (% of GNI)",DT.DOD.DECT.GN.ZS,http://api.worldbank.org/v2/countries/all/indicators/DT.DOD.DECT.GN.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Short-term debt (% of total reserves)",DT.DOD.DSTC.IR.ZS,http://api.worldbank.org/v2/countries/all/indicators/DT.DOD.DSTC.IR.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Short-term debt (% of exports of goods, services and primary income)",DT.DOD.DSTC.XP.ZS,http://api.worldbank.org/v2/countries/all/indicators/DT.DOD.DSTC.XP.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Short-term debt (% of total external debt)",DT.DOD.DSTC.ZS,http://api.worldbank.org/v2/countries/all/indicators/DT.DOD.DSTC.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Present value of external debt (% of GNI)",DT.DOD.PVLX.GN.ZS,http://api.worldbank.org/v2/countries/all/indicators/DT.DOD.PVLX.GN.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,http://api.worldbank.org/v2/countries/all/indicators/DT.TDS.DECT.EX.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Total debt service (% of GNI)",DT.TDS.DECT.GN.ZS,http://api.worldbank.org/v2/countries/all/indicators/DT.TDS.DECT.GN.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,http://api.worldbank.org/v2/countries/all/indicators/EG.IMP.CONS.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank capital to assets ratio (%)",FB.BNK.CAPA.ZS,http://api.worldbank.org/v2/countries/all/indicators/FB.BNK.CAPA.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Domestic credit to private sector by banks (% of GDP)",FD.AST.PRVT.GD.ZS,http://api.worldbank.org/v2/countries/all/indicators/FD.AST.PRVT.GD.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank liquid reserves to bank assets ratio (%)",FD.RES.LIQU.AS.ZS,http://api.worldbank.org/v2/countries/all/indicators/FD.RES.LIQU.AS.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Total reserves (% of total external debt)",FI.RES.TOTL.DT.ZS,http://api.worldbank.org/v2/countries/all/indicators/FI.RES.TOTL.DT.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Total reserves in months of imports",FI.RES.TOTL.MO,http://api.worldbank.org/v2/countries/all/indicators/FI.RES.TOTL.MO?per_page=9999&format=json,RGN,1,1,1,NULL
+"Broad money (% of GDP)",FM.LBL.BMNY.GD.ZS,http://api.worldbank.org/v2/countries/all/indicators/FM.LBL.BMNY.GD.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Broad money to total reserves ratio",FM.LBL.BMNY.IR.ZS,http://api.worldbank.org/v2/countries/all/indicators/FM.LBL.BMNY.IR.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Broad money growth (annual %)",FM.LBL.BMNY.ZG,http://api.worldbank.org/v2/countries/all/indicators/FM.LBL.BMNY.ZG?per_page=9999&format=json,RGN,1,1,1,NULL
+"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,http://api.worldbank.org/v2/countries/all/indicators/FP.CPI.TOTL.ZG?per_page=9999&format=json,RGN,1,1,1,NULL
+"Deposit interest rate (%)",FR.INR.DPST,http://api.worldbank.org/v2/countries/all/indicators/FR.INR.DPST?per_page=9999&format=json,RGN,1,1,1,NULL
+"Lending interest rate (%)",FR.INR.LEND,http://api.worldbank.org/v2/countries/all/indicators/FR.INR.LEND?per_page=9999&format=json,RGN,1,1,1,NULL
+"Domestic credit provided by financial sector (% of GDP)",FS.AST.DOMS.GD.ZS,http://api.worldbank.org/v2/countries/all/indicators/FS.AST.DOMS.GD.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Domestic credit to private sector (% of GDP)",FS.AST.PRVT.GD.ZS,http://api.worldbank.org/v2/countries/all/indicators/FS.AST.PRVT.GD.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Net acquisition of financial assets (% of GDP)",GC.AST.TOTL.GD.ZS,http://api.worldbank.org/v2/countries/all/indicators/GC.AST.TOTL.GD.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,http://api.worldbank.org/v2/countries/all/indicators/GC.DOD.TOTL.GD.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Tax revenue (% of GDP)",GC.TAX.TOTL.GD.ZS,http://api.worldbank.org/v2/countries/all/indicators/GC.TAX.TOTL.GD.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Expense (% of GDP)",GC.XPN.TOTL.GD.ZS,http://api.worldbank.org/v2/countries/all/indicators/GC.XPN.TOTL.GD.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Deposit money banks' assets to GDP (%)",GFDD.DI.02,http://api.worldbank.org/v2/countries/all/indicators/GFDD.DI.02?per_page=9999&format=json,RGN,1,1,1,NULL
+"Liquid liabilities to GDP (%)",GFDD.DI.05,http://api.worldbank.org/v2/countries/all/indicators/GFDD.DI.05?per_page=9999&format=json,RGN,1,1,1,NULL
+"Central bank assets to GDP (%)",GFDD.DI.06,http://api.worldbank.org/v2/countries/all/indicators/GFDD.DI.06?per_page=9999&format=json,RGN,1,1,1,NULL
+"Financial system deposits to GDP (%)",GFDD.DI.08,http://api.worldbank.org/v2/countries/all/indicators/GFDD.DI.08?per_page=9999&format=json,RGN,1,1,1,NULL
+"Stock market capitalization to GDP (%)",GFDD.DM.01,http://api.worldbank.org/v2/countries/all/indicators/GFDD.DM.01?per_page=9999&format=json,RGN,1,1,1,NULL
+"Gross portfolio equity liabilities to GDP (%)",GFDD.DM.08,http://api.worldbank.org/v2/countries/all/indicators/GFDD.DM.08?per_page=9999&format=json,RGN,1,1,1,NULL
+"Gross portfolio equity assets to GDP (%)",GFDD.DM.09,http://api.worldbank.org/v2/countries/all/indicators/GFDD.DM.09?per_page=9999&format=json,RGN,1,1,1,NULL
+"Gross portfolio debt liabilities to GDP (%)",GFDD.DM.10,http://api.worldbank.org/v2/countries/all/indicators/GFDD.DM.10?per_page=9999&format=json,RGN,1,1,1,NULL
+"Gross portfolio debt assets to GDP (%)",GFDD.DM.11,http://api.worldbank.org/v2/countries/all/indicators/GFDD.DM.11?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank net interest margin (%)",GFDD.EI.01,http://api.worldbank.org/v2/countries/all/indicators/GFDD.EI.01?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank return on assets (%, after tax)",GFDD.EI.05,http://api.worldbank.org/v2/countries/all/indicators/GFDD.EI.05?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank return on equity (%, after tax)",GFDD.EI.06,http://api.worldbank.org/v2/countries/all/indicators/GFDD.EI.06?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank cost to income ratio (%)",GFDD.EI.07,http://api.worldbank.org/v2/countries/all/indicators/GFDD.EI.07?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank return on assets (%, before tax)",GFDD.EI.09,http://api.worldbank.org/v2/countries/all/indicators/GFDD.EI.09?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank return on equity (%, before tax)",GFDD.EI.10,http://api.worldbank.org/v2/countries/all/indicators/GFDD.EI.10?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank deposits to GDP (%)",GFDD.OI.02,http://api.worldbank.org/v2/countries/all/indicators/GFDD.OI.02?per_page=9999&format=json,RGN,1,1,1,NULL
+"Stock market return (%, year-on-year)",GFDD.OM.02,http://api.worldbank.org/v2/countries/all/indicators/GFDD.OM.02?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank nonperforming loans to gross loans (%)",GFDD.SI.02,http://api.worldbank.org/v2/countries/all/indicators/GFDD.SI.02?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank capital to total assets (%)",GFDD.SI.03,http://api.worldbank.org/v2/countries/all/indicators/GFDD.SI.03?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank credit to bank deposits (%)",GFDD.SI.04,http://api.worldbank.org/v2/countries/all/indicators/GFDD.SI.04?per_page=9999&format=json,RGN,1,1,1,NULL
+"Bank regulatory capital to risk-weighted assets (%)",GFDD.SI.05,http://api.worldbank.org/v2/countries/all/indicators/GFDD.SI.05?per_page=9999&format=json,RGN,1,1,1,NULL
+"Stock price volatility",GFDD.SM.01,http://api.worldbank.org/v2/countries/all/indicators/GFDD.SM.01?per_page=9999&format=json,RGN,1,1,1,NULL
+"Gold, $/toz, nominal$",GOLD,http://api.worldbank.org/v2/countries/all/indicators/GOLD?per_page=9999&format=json,WLD,1,1,1,NULL
+"Energy, 2010=100, nominal$",IENERGY,http://api.worldbank.org/v2/countries/all/indicators/IENERGY?per_page=9999&format=json,WLD,1,1,1,NULL
+"Non-energy commodities, 2010=100, nominal$",INONFUEL,http://api.worldbank.org/v2/countries/all/indicators/INONFUEL?per_page=9999&format=json,WLD,1,1,1,NULL
+"Industrial Production, constant US$,,,",IPTOTNSKD,http://api.worldbank.org/v2/countries/all/indicators/IPTOTNSKD?per_page=9999&format=json,RGN,1,1,1,NULL
+"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,http://api.worldbank.org/v2/countries/all/indicators/IPTOTSAKD?per_page=9999&format=json,RGN,1,1,1,NULL
+"General government final consumption expenditure (% of GDP)",NE.CON.GOVT.ZS,http://api.worldbank.org/v2/countries/all/indicators/NE.CON.GOVT.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Final consumption expenditure, etc. (% of GDP)",NE.CON.TETC.ZS,http://api.worldbank.org/v2/countries/all/indicators/NE.CON.TETC.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Exports of goods and services (% of GDP)",NE.EXP.GNFS.ZS,http://api.worldbank.org/v2/countries/all/indicators/NE.EXP.GNFS.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Gross fixed capital formation (% of GDP)",NE.GDI.FTOT.ZS,http://api.worldbank.org/v2/countries/all/indicators/NE.GDI.FTOT.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Imports of goods and services (% of GDP)",NE.IMP.GNFS.ZS,http://api.worldbank.org/v2/countries/all/indicators/NE.IMP.GNFS.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"External balance on goods and services (% of GDP)",NE.RSB.GNFS.ZS,http://api.worldbank.org/v2/countries/all/indicators/NE.RSB.GNFS.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Trade (% of GDP)",NE.TRD.GNFS.ZS,http://api.worldbank.org/v2/countries/all/indicators/NE.TRD.GNFS.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Agriculture, value added (% of GDP)",NV.AGR.TOTL.ZS,http://api.worldbank.org/v2/countries/all/indicators/NV.AGR.TOTL.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,http://api.worldbank.org/v2/countries/all/indicators/NV.IND.MANF.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Industry, value added (% of GDP)",NV.IND.TOTL.ZS,http://api.worldbank.org/v2/countries/all/indicators/NV.IND.TOTL.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Services, etc., value added (% of GDP)",NV.SRV.TETC.ZS,http://api.worldbank.org/v2/countries/all/indicators/NV.SRV.TETC.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"GDP (current US$)",NY.GDP.MKTP.CD,http://api.worldbank.org/v2/countries/all/indicators/NY.GDP.MKTP.CD?per_page=9999&format=json,RGN,1,1,1,NULL
+"GDP growth (annual %)",NY.GDP.MKTP.KD.ZG,http://api.worldbank.org/v2/countries/all/indicators/NY.GDP.MKTP.KD.ZG?per_page=9999&format=json,RGN,1,1,1,NULL
+"GDP per capita (constant 2010 US$)",NY.GDP.PCAP.KD,http://api.worldbank.org/v2/countries/all/indicators/NY.GDP.PCAP.KD?per_page=9999&format=json,RGN,1,1,1,NULL
+"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,http://api.worldbank.org/v2/countries/all/indicators/NY.GDP.PCAP.PP.CD?per_page=9999&format=json,RGN,1,1,1,NULL
+"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,http://api.worldbank.org/v2/countries/all/indicators/NY.GDP.PCAP.PP.KD?per_page=9999&format=json,RGN,1,1,1,NULL
+"Oil rents (% of GDP)",NY.GDP.PETR.RT.ZS,http://api.worldbank.org/v2/countries/all/indicators/NY.GDP.PETR.RT.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Total natural resources rents (% of GDP)",NY.GDP.TOTL.RT.ZS,http://api.worldbank.org/v2/countries/all/indicators/NY.GDP.TOTL.RT.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,http://api.worldbank.org/v2/countries/all/indicators/PA.NUS.FCRF?per_page=9999&format=json,RGN,1,1,1,NULL
+"Real effective exchange rate index (2010 = 100)",PX.REX.REER,http://api.worldbank.org/v2/countries/all/indicators/PX.REX.REER?per_page=9999&format=json,RGN,1,1,1,NULL
+"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,http://api.worldbank.org/v2/countries/all/indicators/SL.UEM.TOTL.NE.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,http://api.worldbank.org/v2/countries/all/indicators/SL.UEM.TOTL.ZS?per_page=9999&format=json,RGN,1,1,1,NULL
+"Agricultural raw materials imports (% of merchandise imports)",TM.VAL.AGRI.ZS.UN,http://api.worldbank.org/v2/countries/all/indicators/TM.VAL.AGRI.ZS.UN?per_page=9999&format=json,RGN,1,1,1,NULL
+"Fuel imports (% of merchandise imports)",TM.VAL.FUEL.ZS.UN,http://api.worldbank.org/v2/countries/all/indicators/TM.VAL.FUEL.ZS.UN?per_page=9999&format=json,RGN,1,1,1,NULL
+"Ores and metals imports (% of merchandise imports)",TM.VAL.MMTL.ZS.UN,http://api.worldbank.org/v2/countries/all/indicators/TM.VAL.MMTL.ZS.UN?per_page=9999&format=json,RGN,1,1,1,NULL
+"Net barter terms of trade index (2000 = 100)",TT.PRI.MRCH.XD.WD,http://api.worldbank.org/v2/countries/all/indicators/TT.PRI.MRCH.XD.WD?per_page=9999&format=json,RGN,1,1,1,NULL
+"Agricultural raw materials exports (% of merchandise exports)",TX.VAL.AGRI.ZS.UN,http://api.worldbank.org/v2/countries/all/indicators/TX.VAL.AGRI.ZS.UN?per_page=9999&format=json,RGN,1,1,1,NULL
+"Fuel exports (% of merchandise exports)",TX.VAL.FUEL.ZS.UN,http://api.worldbank.org/v2/countries/all/indicators/TX.VAL.FUEL.ZS.UN?per_page=9999&format=json,RGN,1,1,1,NULL
+"Ores and metals exports (% of merchandise exports)",TX.VAL.MMTL.ZS.UN,http://api.worldbank.org/v2/countries/all/indicators/TX.VAL.MMTL.ZS.UN?per_page=9999&format=json,RGN,1,1,1,NULL
+"High-technology exports (% of manufactured exports)",TX.VAL.TECH.MF.ZS,http://api.worldbank.org/v2/countries/all/indicators/TX.VAL.TECH.MF.ZS?per_page=9999&format=json,RGN,1,1,1,NULL

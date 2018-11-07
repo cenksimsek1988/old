@@ -1,0 +1,5 @@
+id,name,description,source
+EF:br,"Business Regulations",NULL,ECONOMIC_FREEDOM
+EF:cmr,"Credit Market Regulation",NULL,ECONOMIC_FREEDOM
+EF:lmr,"Labor Market Regulation",NULL,ECONOMIC_FREEDOM
+PR:priq,"Political Risk & Institutional Quality",NULL,POLITICAL

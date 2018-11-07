@@ -1,0 +1,12 @@
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('eu','EU','MKT');
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('emr','Emerging Market','SPS');
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('erz','Eurozone','MKT');
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('frn','Frontier Market','SPS');
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('g20','G-20 Member','SPS');
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('hinc','High Income','INC');
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('lminc','Lower-Middle Income','INC');
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('uminc','Upper-Middle Income','INC');
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('lwinc','Low Income','INC');
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('dng','Developing','DVP');
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('dpd','Developed','DVP');
+insert into cmn_dynamic_group(dynamic_group_code, dynamic_group_name, dynamic_group_parent) values ('lsdpd','Less Developed','DVP');

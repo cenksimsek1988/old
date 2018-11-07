@@ -1,0 +1,306 @@
+id,iso2code,name,region_id,region_iso2code,region_value,adminregion_id,adminregion_iso2code,adminregion_value,incomeLevel_id,incomeLevel_iso2code,incomeLevel_value,lendingType_id,lendingType_iso2code,lendingType_value,capitalCity,longitude,latitude,insert_time,aggregate,currency,currency_code,distance,group_code,landlocked,legal_origin_code,sub_continent_id
+ARB,1A,"Arab World",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+WLD,1W,World,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+EAP,4E,"East Asia & Pacific (excluding high income)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DXS,6D,"IDA total, excluding Sub-Saharan Africa",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+FXS,6F,"IDA countries classified as fragile situations, excluding Sub-Saharan Africa",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+NLS,6L,"Non-resource rich Sub-Saharan Africa countries, of which landlocked",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+NXS,6N,"IDA countries not classified as fragile situations, excluding Sub-Saharan Africa",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+NRS,6X,"Non-resource rich Sub-Saharan Africa countries",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ECA,7E,"Europe & Central Asia (excluding high income)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+SAS,8S,"South Asia",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+SXZ,A4,"Sub-Saharan Africa excluding South Africa",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+XZN,A5,"Sub-Saharan Africa excluding South Africa and Nigeria",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+AFR,A9,Africa,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+AND,AD,Andorra,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified","Andorra la Vella",1.5218,42.5075,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ARE,AE,"United Arab Emirates",MEA,ZQ,"Middle East & North Africa",,,,HIC,XD,"High income",LNX,XX,"Not classified","Abu Dhabi",54.3705,24.4764,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+AFG,AF,Afghanistan,SAS,8S,"South Asia",SAS,8S,"South Asia",LIC,XM,"Low income",IDX,XI,IDA,Kabul,69.1761,34.5228,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ATG,AG,"Antigua and Barbuda",LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",IBD,XF,IBRD,"Saint John's",-61.8456,17.1175,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ALB,AL,Albania,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Tirane,19.8172,41.3317,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ARM,AM,Armenia,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Yerevan,44.509,40.1596,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+AGO,AO,Angola,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,Luanda,13.242,-8.81155,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ARG,AR,Argentina,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",HIC,XD,"High income",IBD,XF,IBRD,"Buenos Aires",-58.4173,-34.6118,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ASM,AS,"American Samoa",EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",UMC,XT,"Upper middle income",LNX,XX,"Not classified","Pago Pago",-170.691,-14.2846,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+AUT,AT,Austria,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Vienna,16.3798,48.2201,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+AUS,AU,Australia,EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",Canberra,149.129,-35.282,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ABW,AW,Aruba,LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",LNX,XX,"Not classified",Oranjestad,-70.0167,12.5167,"2018-10-04 14:28:34",1,as,asd,1341,NULL,NULL,NULL,NULL
+AZE,AZ,Azerbaijan,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Baku,49.8932,40.3834,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BHI,B1,"IBRD countries classified as high income",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BLA,B2,"Latin America & the Caribbean (IBRD-only countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BMN,B3,"Middle East & North Africa (IBRD-only countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BEA,B4,"East Asia & Pacific (IBRD-only countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BSS,B6,"Sub-Saharan Africa (IBRD-only countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BEC,B7,"Europe & Central Asia (IBRD-only countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CEB,B8,"Central Europe and the Baltics",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BIH,BA,"Bosnia and Herzegovina",ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Sarajevo,18.4214,43.8607,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BRB,BB,Barbados,LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",LNX,XX,"Not classified",Bridgetown,-59.6105,13.0935,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BGD,BD,Bangladesh,SAS,8S,"South Asia",SAS,8S,"South Asia",LMC,XN,"Lower middle income",IDX,XI,IDA,Dhaka,90.4113,23.7055,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BEL,BE,Belgium,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Brussels,4.36761,50.8371,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BFA,BF,"Burkina Faso",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Ouagadougou,-1.53395,12.3605,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BGR,BG,Bulgaria,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Sofia,23.3238,42.7105,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BHR,BH,Bahrain,MEA,ZQ,"Middle East & North Africa",,,,HIC,XD,"High income",LNX,XX,"Not classified",Manama,50.5354,26.1921,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BDI,BI,Burundi,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Bujumbura,29.3639,-3.3784,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BEN,BJ,Benin,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Porto-Novo,2.6323,6.4779,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BMU,BM,Bermuda,NAC,XU,"North America",,,,HIC,XD,"High income",LNX,XX,"Not classified",Hamilton,-64.706,32.3293,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BRN,BN,"Brunei Darussalam",EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified","Bandar Seri Begawan",114.946,4.94199,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BOL,BO,Bolivia,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,"La Paz",-66.1936,-13.9908,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BRA,BR,Brazil,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Brasilia,-47.9292,-15.7801,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BHS,BS,"Bahamas, The",LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",LNX,XX,"Not classified",Nassau,-77.339,25.0661,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BTN,BT,Bhutan,SAS,8S,"South Asia",SAS,8S,"South Asia",LMC,XN,"Lower middle income",IDX,XI,IDA,Thimphu,89.6177,27.5768,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BWA,BW,Botswana,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Gaborone,25.9201,-24.6544,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BLR,BY,Belarus,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Minsk,27.5766,53.9678,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+BLZ,BZ,Belize,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Belmopan,-88.7713,17.2534,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CEA,C4,"East Asia and the Pacific (IFC classification)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CEU,C5,"Europe and Central Asia (IFC classification)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CLA,C6,"Latin America and the Caribbean (IFC classification)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CME,C7,"Middle East and North Africa (IFC classification)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CSA,C8,"South Asia (IFC classification)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CAA,C9,"Sub-Saharan Africa (IFC classification)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CAN,CA,Canada,NAC,XU,"North America",,,,HIC,XD,"High income",LNX,XX,"Not classified",Ottawa,-75.6919,45.4215,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+COD,CD,"Congo, Dem. Rep.",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Kinshasa,15.3222,-4.325,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CAF,CF,"Central African Republic",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Bangui,21.6407,5.63056,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+COG,CG,"Congo, Rep.",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDB,XH,Blend,Brazzaville,15.2662,-4.2767,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CHE,CH,Switzerland,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Bern,7.44821,46.948,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CIV,CI,"Cote d'Ivoire",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Yamoussoukro,-4.0305,5.332,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CHL,CL,Chile,LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",IBD,XF,IBRD,Santiago,-70.6475,-33.475,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CMR,CM,Cameroon,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDB,XH,Blend,Yaounde,11.5174,3.8721,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CHN,CN,China,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Beijing,116.286,40.0495,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+COL,CO,Colombia,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Bogota,-74.082,4.60987,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CRI,CR,"Costa Rica",LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,"San Jose",-84.0089,9.63701,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CUB,CU,Cuba,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",LNX,XX,"Not classified",Havana,-82.3667,23.1333,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CPV,CV,"Cabo Verde",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDB,XH,Blend,Praia,-23.5087,14.9218,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CUW,CW,Curacao,LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",LNX,XX,"Not classified",Willemstad,,,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CYP,CY,Cyprus,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Nicosia,33.3736,35.1676,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CZE,CZ,"Czech Republic",ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Prague,14.4205,50.0878,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DLA,D2,"Latin America & the Caribbean (IDA-eligible countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DMN,D3,"Middle East & North Africa (IDA-eligible countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DEA,D4,"East Asia & Pacific (IDA-eligible countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DSA,D5,"South Asia (IDA-eligible countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DSS,D6,"Sub-Saharan Africa (IDA-eligible countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DEC,D7,"Europe & Central Asia (IDA-eligible countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DFS,D8,"IDA countries classified as Fragile Situations",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DNF,D9,"IDA countries not classified as Fragile Situations",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DEU,DE,Germany,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Berlin,13.4115,52.5235,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DJI,DJ,Djibouti,MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Djibouti,43.1425,11.5806,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DNK,DK,Denmark,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Copenhagen,12.5681,55.6763,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DMA,DM,Dominica,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IDB,XH,Blend,Roseau,-61.39,15.2976,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DOM,DO,"Dominican Republic",LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,"Santo Domingo",-69.8908,18.479,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DZA,DZ,Algeria,MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Algiers,3.05097,36.7397,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ECU,EC,Ecuador,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Quito,-78.5243,-0.229498,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+EST,EE,Estonia,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Tallinn,24.7586,59.4392,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+EGY,EG,"Egypt, Arab Rep.",MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,Cairo,31.2461,30.0982,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ERI,ER,Eritrea,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Asmara,38.9183,15.3315,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ESP,ES,Spain,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Madrid,-3.70327,40.4167,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ETH,ET,Ethiopia,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,"Addis Ababa",38.7468,9.02274,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+EUU,EU,"European Union",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+FCS,F1,"Fragile and conflict affected situations",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DSF,F6,"IDA countries in Sub-Saharan Africa classified as fragile situations ",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+FIN,FI,Finland,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Helsinki,24.9525,60.1608,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+FJI,FJ,Fiji,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Suva,178.399,-18.1149,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+FSM,FM,"Micronesia, Fed. Sts.",EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Palikir,158.185,6.91771,"2018-10-04 14:28:35",0,Euro,EUR,NULL,eur,0,fr,NULL
+FRO,FO,"Faroe Islands",ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Torshavn,-6.91181,61.8926,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+FRA,FR,France,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Paris,2.35097,48.8566,"2018-10-04 14:28:35",0,NULL,NULL,278,NULL,NULL,NULL,155
+GAB,GA,Gabon,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Libreville,9.45162,0.38832,"2018-10-04 14:28:35",0,NULL,NULL,195,NULL,NULL,NULL,17
+GBR,GB,"United Kingdom",ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",London,-0.126236,51.5002,"2018-10-04 14:28:35",0,NULL,NULL,186,NULL,NULL,NULL,154
+GRD,GD,Grenada,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IDB,XH,Blend,"Saint George's",-61.7449,12.0653,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+GEO,GE,Georgia,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,Tbilisi,44.793,41.71,"2018-10-04 14:28:35",0,Dirham,AED,99,mena,0,uk,145
+GHA,GH,Ghana,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Accra,-0.20795,5.57045,"2018-10-04 14:28:35",0,Afghani,AFN,184,sasia,1,fr,11
+GIB,GI,Gibraltar,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",,,,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+GRL,GL,Greenland,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Nuuk,-51.7214,64.1836,"2018-10-04 14:28:35",0,Lek,ALL,NULL,eur,0,fr,NULL
+GMB,GM,"Gambia, The",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Banjul,-16.5885,13.4495,"2018-10-04 14:28:35",0,NULL,NULL,40,NULL,NULL,NULL,11
+GIN,GN,Guinea,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Conakry,-13.7,9.51667,"2018-10-04 14:28:35",0,Franc,GNF,186,ssaf,0,fr,11
+GNQ,GQ,"Equatorial Guinea",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Malabo,8.7741,3.7523,"2018-10-04 14:28:35",0,Franc,CFA,63,ssaf,0,fr,17
+GRC,GR,Greece,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Athens,23.7166,37.9792,"2018-10-04 14:28:35",0,Euro,EUR,136,eur,0,fr,39
+GTM,GT,Guatemala,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,"Guatemala City",-90.5328,14.6248,"2018-10-04 14:28:35",0,"Quetzal ",GTQ,124,cam,0,fr,13
+GUM,GU,Guam,EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",Agana,144.794,13.4443,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+GNB,GW,Guinea-Bissau,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Bissau,-15.1804,11.8037,"2018-10-04 14:28:35",0,Franc,CFA,71,ssaf,0,fr,11
+GUY,GY,Guyana,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IDX,XI,IDA,Georgetown,-58.1548,6.80461,"2018-10-04 14:28:35",0,Dollar,GYD,174,sam,0,uk,5
+HKG,HK,"Hong Kong SAR, China",EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",,114.109,22.3964,"2018-10-04 14:28:35",0,Dollar,HKD,12,easia,0,uk,30
+HND,HN,Honduras,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Tegucigalpa,-87.4667,15.1333,"2018-10-04 14:28:35",0,Lempira,HNL,126,cam,0,fr,13
+HRV,HR,Croatia,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",HIC,XD,"High income",IBD,XF,IBRD,Zagreb,15.9614,45.8069,"2018-10-04 14:28:35",0,NULL,NULL,89,NULL,NULL,NULL,39
+HTI,HT,Haiti,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Port-au-Prince,-72.3288,18.5392,"2018-10-04 14:28:35",0,Gourde,HTG,63,cam,0,fr,29
+HUN,HU,Hungary,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Budapest,19.0408,47.4984,"2018-10-04 14:28:35",0,Forint,HUF,115,eur,1,de,151
+IDN,ID,Indonesia,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,Jakarta,106.83,-6.19752,"2018-10-04 14:28:35",0,Rupiah,IDR,523,easia,0,fr,35
+IRL,IE,Ireland,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Dublin,-6.26749,53.3441,"2018-10-04 14:28:35",0,Euro,EUR,100,eur,0,uk,154
+ISR,IL,Israel,MEA,ZQ,"Middle East & North Africa",,,,HIC,XD,"High income",LNX,XX,"Not classified",,35.2035,31.7717,"2018-10-04 14:28:35",0,Shekel,ILS,55,mena,0,uk,145
+IMN,IM,"Isle of Man",ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Douglas,-4.47928,54.1509,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+IND,IN,India,SAS,8S,"South Asia",SAS,8S,"South Asia",LMC,XN,"Lower middle income",IBD,XF,IBRD,"New Delhi",77.225,28.6353,"2018-10-04 14:28:35",0,Rupi,INR,682,sasia,0,uk,34
+IRQ,IQ,Iraq,MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Baghdad,44.394,33.3302,"2018-10-04 14:28:35",0,Dinar,IQD,249,mena,0,fr,145
+IRN,IR,"Iran, Islamic Rep.",MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Tehran,51.4447,35.6878,"2018-10-04 14:28:35",0,Rial,IRR,483,mena,0,fr,34
+ISL,IS,Iceland,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Reykjavik,-21.8952,64.1353,"2018-10-04 14:28:35",0,NULL,NULL,121,NULL,NULL,NULL,154
+ITA,IT,Italy,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Rome,12.4823,41.8955,"2018-10-04 14:28:35",0,Euro,EUR,206,eur,0,fr,39
+CHI,JG,"Channel Islands",ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",,,,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JAM,JM,Jamaica,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Kingston,-76.792,17.9927,"2018-10-04 14:28:35",0,Dollar,JMD,39,cam,0,uk,29
+JOR,JO,Jordan,MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Amman,35.9263,31.9497,"2018-10-04 14:28:35",0,Dinar,JOD,114,mena,0,fr,145
+JPN,JP,Japan,EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",Tokyo,139.77,35.67,"2018-10-04 14:28:35",0,Yen,JPY,231,easia,0,de,30
+KEN,KE,Kenya,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDB,XH,Blend,Nairobi,36.8126,-1.27975,"2018-10-04 14:28:35",0,"Shilling ",KES,287,ssaf,0,uk,14
+KGZ,KG,"Kyrgyz Republic",ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Bishkek,74.6057,42.8851,"2018-10-04 14:28:35",0,Som,KGS,168,casia,1,fr,143
+KHM,KH,Cambodia,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,"Phnom Penh",104.874,11.5556,"2018-10-04 14:28:35",0,Riel,KHR,160,easia,0,fr,35
+KIR,KI,Kiribati,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Tarawa,172.979,1.32905,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+COM,KM,Comoros,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Moroni,43.2418,-11.6986,"2018-10-04 14:28:34",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+KNA,KN,"St. Kitts and Nevis",LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",IBD,XF,IBRD,Basseterre,-62.7309,17.3,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+PRK,KP,"Korea, Dem. People’s Rep.",EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LIC,XM,"Low income",LNX,XX,"Not classified",Pyongyang,125.754,39.0319,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+KOR,KR,"Korea, Rep.",EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",Seoul,126.957,37.5323,"2018-10-04 14:28:35",0,Won,KRW,119,easia,0,de,30
+KWT,KW,Kuwait,MEA,ZQ,"Middle East & North Africa",,,,HIC,XD,"High income",LNX,XX,"Not classified","Kuwait City",47.9824,29.3721,"2018-10-04 14:28:35",0,Dinar,KWD,50,mena,0,fr,145
+CYM,KY,"Cayman Islands",LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",LNX,XX,"Not classified","George Town",-81.3857,19.3022,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+KAZ,KZ,Kazakhstan,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Astana,71.4382,51.1879,"2018-10-04 14:28:35",0,Tenge,KZT,620,casia,1,fr,143
+LCR,L4,"Latin America and the Caribbean",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Tenge,KZT,620,casia,1,fr,NULL
+ANR,L5,"Andean Region",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+MCA,L6,"Central America",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Tenge,KZT,620,casia,1,fr,NULL
+SCE,L7,"Southern Cone",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,620,NULL,NULL,NULL,NULL
+LAO,LA,"Lao PDR",EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Vientiane,102.177,18.5826,"2018-10-04 14:28:35",0,Kip,LAK,183,easia,1,fr,35
+LBN,LB,Lebanon,MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Beirut,35.5134,33.8872,"2018-10-04 14:28:35",0,Lira,LBP,38,mena,0,fr,145
+LCA,LC,"St. Lucia",LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IDB,XH,Blend,Castries,-60.9832,14,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+LIE,LI,Liechtenstein,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Vaduz,9.52148,47.1411,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+LKA,LK,"Sri Lanka",SAS,8S,"South Asia",SAS,8S,"South Asia",LMC,XN,"Lower middle income",IBD,XF,IBRD,Colombo,79.8528,6.92148,"2018-10-04 14:28:35",0,Rupi,LKR,96,sasia,0,uk,34
+LBR,LR,Liberia,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Monrovia,-10.7957,6.30039,"2018-10-04 14:28:35",0,Dollar,LRD,126,ssaf,0,uk,11
+LSO,LS,Lesotho,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Maseru,27.7167,-29.5208,"2018-10-04 14:28:35",0,Loti,LSL,66,ssaf,1,uk,18
+LTU,LT,Lithuania,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Vilnius,25.2799,54.6896,"2018-10-04 14:28:35",0,Euro,EUR,96,eur,0,fr,154
+LUX,LU,Luxembourg,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Luxembourg,6.1296,49.61,"2018-10-04 14:28:35",0,Euro,EUR,19,eur,1,fr,155
+LVA,LV,Latvia,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Riga,24.1048,56.9465,"2018-10-04 14:28:35",0,Dirham,AED,96,mena,0,uk,154
+LBY,LY,Libya,MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Tripoli,13.1072,32.8578,"2018-10-04 14:28:35",0,Dinar,LYD,499,mena,0,fr,15
+MDE,M1,"Middle East (developing only)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Dinar,LYD,499,mena,0,fr,NULL
+NAF,M2,"North Africa",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Dinar,LYD,499,mena,0,fr,NULL
+MAR,MA,Morocco,MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,Rabat,-6.8704,33.9905,"2018-10-04 14:28:35",0,Dirham,MAD,317,mena,0,fr,15
+MCO,MC,Monaco,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Monaco,7.41891,43.7325,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+MDA,MD,Moldova,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",LMC,XN,"Lower middle income",IDB,XH,Blend,Chisinau,28.8497,47.0167,"2018-10-04 14:28:35",0,Leu,MDL,69,eur,1,fr,151
+MNE,ME,Montenegro,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Podgorica,19.2595,42.4602,"2018-10-04 14:28:35",0,Euro,EUR,120,eur,0,fr,39
+MAF,MF,"St. Martin (French part)",LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",LNX,XX,"Not classified",Marigot,,,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+MDG,MG,Madagascar,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Antananarivo,45.7167,-20.4667,"2018-10-04 14:28:35",0,Ariary,MGA,288,ssaf,0,fr,14
+MHL,MH,"Marshall Islands",EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",UMC,XT,"Upper middle income",IDX,XI,IDA,Majuro,171.135,7.11046,"2018-10-04 14:28:35",0,Afghani,AFN,NULL,sasia,1,fr,NULL
+MKD,MK,"Macedonia, FYR",ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Skopje,21.4361,42.0024,"2018-10-04 14:28:35",0,Dinar,MKD,60,eur,1,fr,39
+MLI,ML,Mali,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Bamako,-7.50034,13.5667,"2018-10-04 14:28:35",0,Franc,CFA,419,ssaf,1,fr,11
+MMR,MM,Myanmar,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Naypyidaw,95.9562,21.914,"2018-10-04 14:28:35",0,Kyat,MMK,310,easia,0,uk,35
+MNG,MN,Mongolia,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IDB,XH,Blend,Ulaanbaatar,106.937,47.9129,"2018-10-04 14:28:35",0,Tughrik,MNT,471,easia,1,de,30
+MAC,MO,"Macao SAR, China",EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",,113.55,22.1667,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+MNP,MP,"Northern Mariana Islands",EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",Saipan,145.765,15.1935,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+MRT,MR,Mauritania,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Nouakchott,-15.9824,18.2367,"2018-10-04 14:28:35",0,Ugiya,MRO,382,ssaf,0,fr,11
+MLT,MT,Malta,MEA,ZQ,"Middle East & North Africa",,,,HIC,XD,"High income",LNX,XX,"Not classified",Valletta,14.5189,35.9042,"2018-10-04 14:28:35",0,Euro,EUR,7,eur,0,fr,39
+MUS,MU,Mauritius,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,"Port Louis",57.4977,-20.1605,"2018-10-04 14:28:35",0,Rupi,MUR,17,ssaf,0,fr,14
+MDV,MV,Maldives,SAS,8S,"South Asia",SAS,8S,"South Asia",UMC,XT,"Upper middle income",IDX,XI,IDA,Male,73.5109,4.1742,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+MWI,MW,Malawi,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Lilongwe,33.7703,-13.9899,"2018-10-04 14:28:35",0,Kwacha,MWK,129,ssaf,1,uk,14
+MEX,MX,Mexico,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,"Mexico City",-99.1276,19.427,"2018-10-04 14:28:35",0,Peso,MXN,528,nam,0,fr,13
+MYS,MY,Malaysia,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,"Kuala Lumpur",101.684,3.12433,"2018-10-04 14:28:35",0,Ringgit,MYR,216,easia,0,uk,35
+MOZ,MZ,Mozambique,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Maputo,32.5713,-25.9664,"2018-10-04 14:28:35",0,Metical,MZN,337,ssaf,0,fr,14
+DNS,N6,"IDA countries in Sub-Saharan Africa not classified as fragile situations ",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+NAM,NA,Namibia,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Windhoek,17.0931,-22.5648,"2018-10-04 14:28:35",0,Dollar,NAD,342,ssaf,0,uk,18
+NCL,NC,"New Caledonia",EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",Noum'ea,166.464,-22.2677,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+NER,NE,Niger,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Niamey,2.1073,13.514,"2018-10-04 14:28:35",0,Franc,CFA,423,ssaf,1,fr,11
+NGA,NG,Nigeria,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDB,XH,Blend,Abuja,7.48906,9.05804,"2018-10-04 14:28:35",0,Naira,NGN,362,ssaf,0,uk,11
+NIC,NI,Nicaragua,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Managua,-86.2734,12.1475,"2018-10-04 14:28:35",0,Lek,ALL,136,eur,0,fr,13
+NLD,NL,Netherlands,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Amsterdam,4.89095,52.3738,"2018-10-04 14:28:35",0,Euro,EUR,77,eur,0,fr,155
+NOR,NO,Norway,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Oslo,10.7387,59.9138,"2018-10-04 14:28:35",0,Krone,NOK,214,eur,0,sc,154
+NPL,NP,Nepal,SAS,8S,"South Asia",SAS,8S,"South Asia",LIC,XM,"Low income",IDX,XI,IDA,Kathmandu,85.3157,27.6939,"2018-10-04 14:28:35",0,Rupi,NPR,144,sasia,1,uk,34
+NRU,NR,Nauru,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,"Yaren District",166.920867,-0.5477,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+NZL,NZ,"New Zealand",EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",Wellington,174.776,-41.2865,"2018-10-04 14:28:35",0,Dollar,NZD,195,easia,0,uk,53
+RSO,O6,"Resource rich Sub-Saharan Africa countries, of which oil exporters",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Dollar,NZD,195,easia,0,uk,NULL
+OED,OE,"OECD members",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+OMN,OM,Oman,MEA,ZQ,"Middle East & North Africa",,,,HIC,XD,"High income",LNX,XX,"Not classified",Muscat,58.5874,23.6105,"2018-10-04 14:28:35",0,Rial,OMR,173,mena,0,fr,145
+PAN,PA,Panama,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",HIC,XD,"High income",IBD,XF,IBRD,"Panama City",-79.5188,8.99427,"2018-10-04 14:28:35",0,Balboa,PAB,103,cam,0,fr,13
+PER,PE,Peru,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Lima,-77.0465,-12.0931,"2018-10-04 14:28:35",0,NULL,NULL,426,NULL,NULL,NULL,5
+PYF,PF,"French Polynesia",EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",Papeete,-149.57,-17.535,"2018-10-04 14:28:35",0,Kwanza,AOA,NULL,ssaf,0,uk,NULL
+PNG,PG,"Papua New Guinea",EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IDB,XH,Blend,"Port Moresby",147.194,-9.47357,"2018-10-04 14:28:35",0,Peso,ARS,256,sam,0,fr,54
+PHL,PH,Philippines,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,Manila,121.035,14.5515,"2018-10-04 14:28:35",0,NULL,NULL,206,NULL,NULL,NULL,35
+PAK,PK,Pakistan,SAS,8S,"South Asia",SAS,8S,"South Asia",LMC,XN,"Lower middle income",IDB,XH,Blend,Islamabad,72.8,30.5167,"2018-10-04 14:28:35",0,Euro,EUR,353,eur,1,de,34
+POL,PL,Poland,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",IBD,XF,IBRD,Warsaw,21.02,52.26,"2018-10-04 14:28:35",0,Dollar,AUD,210,easia,0,uk,151
+PRI,PR,"Puerto Rico",LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",LNX,XX,"Not classified","San Juan",-66,18.23,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+PSE,PS,"West Bank and Gaza",MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",LMC,XN,"Lower middle income",LNX,XX,"Not classified",,,,"2018-10-04 14:28:35",0,Manat,AZN,NULL,eur,1,fr,NULL
+PRT,PT,Portugal,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Lisbon,-9.13552,38.7072,"2018-10-04 14:28:35",0,Manat,AZN,114,eur,1,fr,39
+PLW,PW,Palau,EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",IBD,XF,IBRD,Koror,134.479,7.34194,"2018-10-04 14:28:35",0,Manat,AZN,NULL,eur,1,fr,NULL
+PRY,PY,Paraguay,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Asuncion,-57.6362,-25.3005,"2018-10-04 14:28:35",0,Kwanza,AOA,240,ssaf,0,uk,5
+QAT,QA,Qatar,MEA,ZQ,"Middle East & North Africa",,,,HIC,XD,"High income",LNX,XX,"Not classified",Doha,51.5082,25.2948,"2018-10-04 14:28:35",0,Rial,QAR,40,mena,0,fr,145
+RRS,R6,"Resource rich Sub-Saharan Africa countries",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Rial,QAR,40,mena,0,fr,NULL
+ROU,RO,Romania,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Bucharest,26.0979,44.4479,"2018-10-04 14:28:35",0,NULL,NULL,NULL,eur,NULL,fr,151
+SRB,RS,Serbia,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Belgrade,20.4656,44.8024,"2018-10-04 14:28:35",0,Dinar,RSD,120,eur,1,fr,39
+RUS,RU,"Russian Federation",ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Moscow,37.6176,55.7558,"2018-10-04 14:28:35",0,Ruble,RUB,1554,eur,0,fr,151
+RWA,RW,Rwanda,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Kigali,30.0587,-1.95325,"2018-10-04 14:28:35",0,Franc,RWF,61,ssaf,1,fr,14
+SST,S1,"Small states",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+PSS,S2,"Pacific island small states",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CSS,S3,"Caribbean small states",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:34",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+OSS,S4,"Other small states",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Peso,ARS,NULL,sam,0,fr,NULL
+SAU,SA,"Saudi Arabia",MEA,ZQ,"Middle East & North Africa",,,,HIC,XD,"High income",LNX,XX,"Not classified",Riyadh,46.6977,24.6748,"2018-10-04 14:28:35",0,Rial,SAR,552,mena,0,uk,145
+SLB,SB,"Solomon Islands",EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Honiara,159.949,-9.42676,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+SYC,SC,Seychelles,SSF,ZG,"Sub-Saharan Africa ",,,,HIC,XD,"High income",IBD,XF,IBRD,Victoria,55.4466,-4.6309,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+SDN,SD,Sudan,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Khartoum,32.5363,15.5932,"2018-10-04 14:28:35",0,Pound,SDG,595,ssaf,0,uk,15
+SWE,SE,Sweden,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Stockholm,18.0645,59.3327,"2018-10-04 14:28:35",0,Krone,SEK,252,eur,0,sc,154
+SGP,SG,Singapore,EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",Singapore,103.85,1.28941,"2018-10-04 14:28:35",0,Dollar,SGD,10,easia,0,uk,35
+SVN,SI,Slovenia,ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Ljubljana,14.5044,46.0546,"2018-10-04 14:28:35",0,Euro,EUR,54,eur,0,de,39
+SVK,SK,"Slovak Republic",ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified",Bratislava,17.1073,48.1484,"2018-10-04 14:28:35",0,Euro,EUR,83,eur,1,de,151
+SLE,SL,"Sierra Leone",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Freetown,-13.2134,8.4821,"2018-10-04 14:28:35",0,Leone,SLL,102,ssaf,0,uk,11
+SMR,SM,"San Marino",ECS,Z7,"Europe & Central Asia",,,,HIC,XD,"High income",LNX,XX,"Not classified","San Marino",12.4486,43.9322,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+SEN,SN,Senegal,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Dakar,-17.4734,14.7247,"2018-10-04 14:28:35",0,Franc,CFA,167,ssaf,0,fr,11
+SOM,SO,Somalia,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Mogadishu,45.3254,2.07515,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+SUR,SR,Suriname,LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Paramaribo,-55.1679,5.8232,"2018-10-04 14:28:35",0,Dollar,SRD,152,sam,0,fr,5
+SSD,SS,"South Sudan",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Juba,31.6,4.85,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+STP,ST,"Sao Tome and Principe",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,"Sao Tome",6.6071,0.20618,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+SLV,SV,"El Salvador",LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,"San Salvador",-89.2073,13.7034,"2018-10-04 14:28:35",0,Dollar,USD,55,cam,0,fr,13
+SXM,SX,"Sint Maarten (Dutch part)",LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",LNX,XX,"Not classified",Philipsburg,,,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+SYR,SY,"Syrian Arab Republic",MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Damascus,36.3119,33.5146,"2018-10-04 14:28:35",0,Pound,SYP,161,mena,0,fr,145
+SWZ,SZ,Eswatini,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,Mbabane,31.4659,-26.5225,"2018-10-04 14:28:35",0,Lilangeni,SZL,50,ssaf,1,uk,18
+TLA,T2,"Latin America & the Caribbean (IDA & IBRD countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Euro,EUR,NULL,eur,1,de,NULL
+TMN,T3,"Middle East & North Africa (IDA & IBRD countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+TEA,T4,"East Asia & Pacific (IDA & IBRD countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+TSA,T5,"South Asia (IDA & IBRD)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+TSS,T6,"Sub-Saharan Africa (IDA & IBRD countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+TEC,T7,"Europe & Central Asia (IDA & IBRD countries)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+TCA,TC,"Turks and Caicos Islands",LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",LNX,XX,"Not classified","Grand Turk",-71.141389,21.4602778,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+TCD,TD,Chad,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,N'Djamena,15.0445,12.1048,"2018-10-04 14:28:35",0,Franc,CFA,426,ssaf,1,fr,17
+TGO,TG,Togo,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Lome,1.2255,6.1228,"2018-10-04 14:28:35",0,Franc,CFA,90,ssaf,0,fr,11
+THA,TH,Thailand,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Bangkok,100.521,13.7308,"2018-10-04 14:28:35",0,Baht,THB,269,easia,0,uk,35
+TJK,TJ,Tajikistan,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Dushanbe,68.7864,38.5878,"2018-10-04 14:28:35",0,Dollar,AUD,142,easia,0,uk,143
+TLS,TL,Timor-Leste,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IDB,XH,Blend,Dili,125.567,-8.56667,"2018-10-04 14:28:35",0,NULL,NULL,NULL,easia,NULL,fr,35
+TKM,TM,Turkmenistan,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Ashgabat,58.3794,37.9509,"2018-10-04 14:28:35",0,Manat,TMT,263,casia,1,fr,143
+TUN,TN,Tunisia,MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,Tunis,10.21,36.7899,"2018-10-04 14:28:35",0,Dinar,TND,152,mena,0,fr,15
+TON,TO,Tonga,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",UMC,XT,"Upper middle income",IDX,XI,IDA,Nuku'alofa,-175.216,-21.136,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+TUR,TR,Turkey,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Ankara,32.3606,39.7153,"2018-10-04 14:28:35",0,Lira,TRY,332,eur,0,fr,145
+TTO,TT,"Trinidad and Tobago",LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",IBD,XF,IBRD,Port-of-Spain,-61.4789,10.6596,"2018-10-04 14:28:35",0,Dollar,TTD,27,cam,0,uk,29
+TUV,TV,Tuvalu,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",UMC,XT,"Upper middle income",IDX,XI,IDA,Funafuti,179.089567,-8.6314877,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+TWN,TW,"Taiwan, China",EAS,Z4,"East Asia & Pacific",,,,HIC,XD,"High income",LNX,XX,"Not classified",,,,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+TZA,TZ,Tanzania,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Dodoma,35.7382,-6.17486,"2018-10-04 14:28:35",0,Shilling,TZS,366,ssaf,0,uk,14
+UKR,UA,Ukraine,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,Kiev,30.5038,50.4536,"2018-10-04 14:28:35",0,NULL,NULL,292,NULL,NULL,NULL,151
+UGA,UG,Uganda,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Kampala,32.5729,0.314269,"2018-10-04 14:28:35",0,"Shilling ",UGX,185,ssaf,1,uk,14
+USA,US,"United States",NAC,XU,"North America",,,,HIC,XD,"High income",LNX,XX,"Not classified","Washington D.C.",-77.032,38.8895,"2018-10-04 14:28:35",0,Dollar,USD,1161,nam,0,uk,21
+URY,UY,Uruguay,LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",IBD,XF,IBRD,Montevideo,-56.0675,-34.8941,"2018-10-04 14:28:35",0,Peso,UYU,158,sam,0,fr,5
+UZB,UZ,Uzbekistan,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",LMC,XN,"Lower middle income",IDB,XH,Blend,Tashkent,69.269,41.3052,"2018-10-04 14:28:35",0,Som,UZS,252,casia,1,fr,143
+PRE,V1,"Pre-demographic dividend",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+EAR,V2,"Early-demographic dividend",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+LTE,V3,"Late-demographic dividend",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+PST,V4,"Post-demographic dividend",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+VCT,VC,"St. Vincent and the Grenadines",LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IDB,XH,Blend,Kingstown,-61.2653,13.2035,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+VEN,VE,"Venezuela, RB",LCN,ZJ,"Latin America & Caribbean ",LAC,XJ,"Latin America & Caribbean (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Caracas,-69.8371,9.08165,"2018-10-04 14:28:35",0,Manat,AZN,359,eur,1,fr,5
+VGB,VG,"British Virgin Islands",LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",LNX,XX,"Not classified","Road Town",-64.623056,18.431389,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+VIR,VI,"Virgin Islands (U.S.)",LCN,ZJ,"Latin America & Caribbean ",,,,HIC,XD,"High income",LNX,XX,"Not classified","Charlotte Amalie",-64.8963,18.3358,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+VNM,VN,Vietnam,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IBD,XF,IBRD,Hanoi,105.825,21.0069,"2018-10-04 14:28:35",0,Dong,VND,216,easia,0,fr,35
+VUT,VU,Vanuatu,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Port-Vila,168.321,-17.7404,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+WSM,WS,Samoa,EAS,Z4,"East Asia & Pacific",EAP,4E,"East Asia & Pacific (excluding high income)",UMC,XT,"Upper middle income",IDX,XI,IDA,Apia,-171.752,-13.8314,"2018-10-04 14:28:35",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+EMU,XC,"Euro area",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+HIC,XD,"High income",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+HPC,XE,"Heavily indebted poor countries (HIPC)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+IBD,XF,"IBRD only",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+IDA,XG,"IDA total",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Manat,AZN,NULL,eur,1,fr,NULL
+IDB,XH,"IDA blend",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+IDX,XI,"IDA only",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+LAC,XJ,"Latin America & Caribbean (excluding high income)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+XKX,XK,Kosovo,ECS,Z7,"Europe & Central Asia",ECA,7E,"Europe & Central Asia (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Pristina,20.926,42.565,"2018-10-04 14:28:35",0,NULL,NULL,NULL,eur,NULL,de,151
+LDC,XL,"Least developed countries: UN classification",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+LIC,XM,"Low income",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+LMC,XN,"Lower middle income",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+LMY,XO,"Low & middle income",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+MIC,XP,"Middle income",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+MNA,XQ,"Middle East & North Africa (excluding high income)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Manat,AZN,NULL,eur,1,fr,NULL
+UMC,XT,"Upper middle income",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+NAC,XU,"North America",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+INX,XY,"Not classified",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+YEM,YE,"Yemen, Rep.",MEA,ZQ,"Middle East & North Africa",MNA,XQ,"Middle East & North Africa (excluding high income)",LIC,XM,"Low income",IDX,XI,IDA,Sana'a,44.2075,15.352,"2018-10-04 14:28:35",0,Rial,YER,278,mena,0,fr,145
+EAS,Z4,"East Asia & Pacific",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ECS,Z7,"Europe & Central Asia",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ZAF,ZA,"South Africa",SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",UMC,XT,"Upper middle income",IBD,XF,IBRD,Pretoria,28.1871,-25.746,"2018-10-04 14:28:35",0,Rand,ZAR,415,ssaf,0,uk,18
+IBB,ZB,"IBRD, including blend",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Rand,ZAR,415,ssaf,0,uk,NULL
+SSA,ZF,"Sub-Saharan Africa (excluding high income)",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+SSF,ZG,"Sub-Saharan Africa ",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+LCN,ZJ,"Latin America & Caribbean ",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Manat,AZN,NULL,eur,1,fr,NULL
+ZMB,ZM,Zambia,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LMC,XN,"Lower middle income",IDX,XI,IDA,Lusaka,28.2937,-15.3982,"2018-10-04 14:28:35",0,Manat,AZN,326,eur,1,fr,14
+MEA,ZQ,"Middle East & North Africa",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,Manat,AZN,NULL,eur,1,fr,NULL
+IBT,ZT,"IDA & IBRD total",NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates,,,,"2018-10-04 14:28:35",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ZWE,ZW,Zimbabwe,SSF,ZG,"Sub-Saharan Africa ",SSA,ZF,"Sub-Saharan Africa (excluding high income)",LIC,XM,"Low income",IDB,XH,Blend,Harare,31.0672,-17.8312,"2018-10-04 14:28:35",0,Mark,BAM,235,eur,0,de,14
+OECDE,,"OECD - Europe",,,,,,,,,,,,,,,,,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL

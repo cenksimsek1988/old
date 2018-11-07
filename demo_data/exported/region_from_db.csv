@@ -1,0 +1,305 @@
+id,name,code_3,currency,currency_code,landlocked,distance,group_code,sub_continent_id,legal_origin_code,region_code,admin_region_code,income_code,capital,lending_code,fo,pr,wb,ef,us,re,iso_code,aggregate
+1A,Arab World,ARB,,,,,,,,,,,,,0,0,1,0,0,0,1A,1
+1W,World,WLD,,,,,,,,,,,,,0,0,1,0,0,0,1W,1
+4E,East Asia & Pacific (excluding high income),EAP,,,,,,,,,,,,,0,0,1,0,0,0,4E,1
+6D,"IDA total, excluding Sub-Saharan Africa",DXS,,,,,,,,,,,,,0,0,1,0,0,0,6D,1
+6F,"IDA countries classified as fragile situations, excluding Sub-Saharan Africa",FXS,,,,,,,,,,,,,0,0,1,0,0,0,6F,1
+6L,"Non-resource rich Sub-Saharan Africa countries, of which landlocked",NLS,,,,,,,,,,,,,0,0,1,0,0,0,6L,1
+6N,"IDA countries not classified as fragile situations, excluding Sub-Saharan Africa",NXS,,,,,,,,,,,,,0,0,1,0,0,0,6N,1
+6X,Non-resource rich Sub-Saharan Africa countries,NRS,,,,,,,,,,,,,0,0,1,0,0,0,6X,1
+7E,Europe & Central Asia (excluding high income),ECA,Euro,EUR,0,,eur,39,fr,,,,,,0,0,1,0,0,0,7E,1
+8S,South Asia,SAS,,,,,,,,,,,,,0,0,1,0,0,0,8S,1
+A4,Sub-Saharan Africa excluding South Africa,SXZ,,,,,,,,,,,,,0,0,1,0,0,0,A4,1
+A5,Sub-Saharan Africa excluding South Africa and Nigeria,XZN,,,,,,,,,,,,,0,0,1,0,0,0,A5,1
+A9,Africa,AFR,,,,,,,,,,,,,0,0,1,0,0,0,A9,1
+AD,Andorra,AND,,,,,,39,,Z7,,XD,Andorra la Vella,XX,0,0,1,0,0,0,AD,0
+AE,United Arab Emirates,ARE,Dirham,AED,0,109,mena,145,uk,ZQ,,XD,Abu Dhabi,XX,0,1,1,1,0,0,AE,0
+AF,Afghanistan,AFG,Afghani,AFN,1,304,sasia,34,fr,8S,8S,XM,Kabul,XI,0,1,1,0,0,0,AF,0
+AG,Antigua and Barbuda,ATG,,,,,,,,ZJ,,XD,Saint John's,XF,0,0,1,0,0,0,AG,0
+AL,Albania,ALB,Lek,ALL,0,64,eur,39,fr,Z7,7E,XT,Tirane,XF,0,1,1,1,0,0,AL,0
+AM,Armenia,ARM,,,,65,,,,Z7,7E,XN,Yerevan,XF,0,1,1,1,0,0,AM,0
+AO,Angola,AGO,Kwanza,AOA,0,420,ssaf,17,uk,ZG,ZF,XN,Luanda,XF,0,1,1,1,0,0,AO,0
+AR,Argentina,ARG,Peso,ARS,0,626,sam,5,fr,ZJ,XJ,XT,Buenos Aires,XF,0,1,1,1,0,0,AR,0
+AS,American Samoa,ASM,,,,,,,,Z4,4E,XT,Pago Pago,XX,0,0,1,0,0,0,AS,0
+AT,Austria,AUT,Euro,EUR,1,109,eur,155,de,Z7,,XD,Vienna,XX,0,1,1,1,0,0,AT,0
+AU,Australia,AUS,Dollar,AUD,0,1043,easia,53,uk,Z4,,XD,Canberra,XX,0,1,1,1,0,0,AU,0
+AW,Aruba,ABW,,,,,,,,ZJ,,XD,Oranjestad,XX,0,0,1,0,0,0,AW,0
+AZ,Azerbaijan,AZE,Manat,AZN,1,111,eur,145,fr,Z7,7E,XT,Baku,XF,0,1,1,1,0,0,AZ,0
+B1,IBRD countries classified as high income,BHI,Manat,AZN,1,111,eur,145,fr,,,,,,0,0,1,0,0,0,B1,1
+B2,Latin America & the Caribbean (IBRD-only countries),BLA,Manat,AZN,1,111,eur,145,fr,,,,,,0,0,1,0,0,0,B2,1
+B3,Middle East & North Africa (IBRD-only countries),BMN,,,,111,,,,,,,,,0,0,1,0,0,0,B3,1
+B4,East Asia & Pacific (IBRD-only countries),BEA,Manat,AZN,1,111,eur,145,fr,,,,,,0,0,1,0,0,0,B4,1
+B6,Sub-Saharan Africa (IBRD-only countries),BSS,Manat,AZN,1,111,eur,145,fr,,,,,,0,0,1,0,0,0,B6,1
+B7,Europe & Central Asia (IBRD-only countries),BEC,Manat,AZN,1,111,eur,145,fr,,,,,,0,0,1,0,0,0,B7,1
+B8,Central Europe and the Baltics,CEB,,,,,,,,,,,,,0,0,1,0,0,0,B8,1
+BA,Bosnia and Herzegovina,BIH,Mark,BAM,0,85,eur,39,de,Z7,7E,XT,Sarajevo,XF,0,1,1,1,0,0,BA,0
+BB,Barbados,BRB,,,,,,,,ZJ,,XD,Bridgetown,XX,0,0,1,1,0,0,BB,0
+BD,Bangladesh,BGD,Taka,BDT,0,143,sasia,34,uk,8S,8S,XN,Dhaka,XI,0,1,1,1,0,0,BD,0
+BE,Belgium,BEL,Euro,EUR,0,68,eur,155,fr,Z7,,XD,Brussels,XX,0,1,1,1,0,0,BE,0
+BF,Burkina Faso,BFA,Franc,CFA,1,197,ssaf,11,fr,ZG,ZF,XM,Ouagadougou,XI,0,1,1,1,0,0,BF,0
+BG,Bulgaria,BGR,,,,125,,,,Z7,7E,XT,Sofia,XF,0,1,1,1,0,0,BG,0
+BH,Bahrain,BHR,Dinar,BHD,0,10,mena,145,uk,ZQ,,XD,Manama,XX,0,1,1,1,0,0,BH,0
+BI,Burundi,BDI,Franc,BIF,1,63,ssaf,14,fr,ZG,ZF,XM,Bujumbura,XI,0,1,1,1,0,0,BI,0
+BJ,Benin,BEN,Franc,CFA,0,126,ssaf,11,fr,ZG,ZF,XM,Porto-Novo,XI,0,1,1,1,0,0,BJ,0
+BM,Bermuda,BMU,,,,,,,,XU,,XD,Hamilton,XX,0,0,1,0,0,0,BM,0
+BN,Brunei Darussalam,BRN,,,,,,,,Z4,,XD,Bandar Seri Begawan,XX,0,0,1,1,0,0,BN,0
+BO,Bolivia,BOL,Boliviano,BOB,1,394,sam,5,fr,ZJ,XJ,XN,La Paz,XF,0,1,1,1,0,0,BO,0
+BR,Brazil,BRA,Real,BRL,0,1097,sam,5,fr,ZJ,XJ,XT,Brasilia,XF,0,1,1,1,0,0,BR,0
+BS,"Bahamas, The",BHS,,,,,,,,ZJ,,XD,Nassau,XX,0,0,1,1,0,0,BS,0
+BT,Bhutan,BTN,Ngultrum,BTN,1,81,sasia,34,uk,8S,8S,XN,Thimphu,XI,0,1,1,1,0,0,BT,0
+BW,Botswana,BWA,,,,291,,,,ZG,ZF,XT,Gaborone,XF,0,1,1,1,0,0,BW,0
+BY,Belarus,BLR,Ruble,BYR,1,171,eur,151,de,Z7,7E,XT,Minsk,XF,0,1,1,0,0,0,BY,0
+BZ,Belize,BLZ,,,,,,,,ZJ,XJ,XT,Belmopan,XF,0,0,1,1,0,0,BZ,0
+C4,East Asia and the Pacific (IFC classification),CEA,,,,,,,,,,,,,0,0,1,0,0,0,C4,1
+C5,Europe and Central Asia (IFC classification),CEU,,,,,,,,,,,,,0,0,1,0,0,0,C5,1
+C6,Latin America and the Caribbean (IFC classification),CLA,,,,,,,,,,,,,0,0,1,0,0,0,C6,1
+C7,Middle East and North Africa (IFC classification),CME,,,,,,,,,,,,,0,0,1,0,0,0,C7,1
+C8,South Asia (IFC classification),CSA,,,,,,,,,,,,,0,0,1,0,0,0,C8,1
+C9,Sub-Saharan Africa (IFC classification),CAA,,,,,,,,,,,,,0,0,1,0,0,0,C9,1
+CA,Canada,CAN,Dollar,CAD,0,1188,nam,21,uk,XU,,XD,Ottawa,XX,0,1,1,1,0,0,CA,0
+CD,"Congo, Dem. Rep.",COD,,,,576,,,,ZG,ZF,XM,Kinshasa,XI,0,1,1,1,0,0,CD,0
+CF,Central African Republic,CAF,Franc,CFA,1,297,ssaf,17,fr,ZG,ZF,XM,Bangui,XI,0,1,1,1,0,0,CF,0
+CG,"Congo, Rep.",COG,Franc,CFA,0,220,ssaf,17,fr,ZG,ZF,XN,Brazzaville,XH,0,1,1,1,0,0,CG,0
+CH,Switzerland,CHE,Franc,CHF,1,76,eur,155,de,Z7,,XD,Bern,XX,0,1,1,1,0,0,CH,0
+CI,Cote d'Ivoire,CIV,Franc,CFA,0,214,ssaf,11,fr,ZG,ZF,XN,Yamoussoukro,XI,0,1,1,1,0,0,CI,0
+CL,Chile,CHL,Peso,CLP,0,327,sam,5,fr,ZJ,,XD,Santiago,XF,0,1,1,1,0,0,CL,0
+CM,Cameroon,CMR,Franc,CFA,0,259,ssaf,17,fr,ZG,ZF,XN,Yaounde,XH,0,1,1,1,0,0,CM,0
+CN,China,CHN,Yuan,CNY,0,1164,easia,30,de,Z4,4E,XT,Beijing,XF,0,1,1,1,0,0,CN,0
+CO,Colombia,COL,Peso,CLP,0,402,sam,5,fr,ZJ,XJ,XT,Bogota,XF,0,1,1,1,0,0,CO,0
+CR,Costa Rica,CRI,Colon,CRC,0,85,cam,13,fr,ZJ,XJ,XT,San Jose,XF,0,1,1,1,0,0,CR,0
+CU,Cuba,CUB,,,,,,,,ZJ,XJ,XT,Havana,XX,0,0,1,0,0,0,CU,0
+CV,Cabo Verde,CPV,Escudo,CVE,0,24,ssaf,11,fr,ZG,ZF,XN,Praia,XH,0,1,1,1,0,0,CV,0
+CW,Curacao,CUW,,,,,,,,ZJ,,XD,Willemstad,XX,0,0,1,0,0,0,CW,0
+CY,Cyprus,CYP,Euro,EUR,0,36,eur,145,uk,Z7,,XD,Nicosia,XX,0,1,1,1,0,0,CY,0
+CZ,Czech Republic,CZE,Koruna,CZK,1,106,eur,151,de,Z7,,XD,Prague,XX,0,1,1,1,0,0,CZ,0
+D2,Latin America & the Caribbean (IDA-eligible countries),DLA,Koruna,CZK,1,106,eur,151,de,,,,,,0,0,1,0,0,0,D2,1
+D3,Middle East & North Africa (IDA-eligible countries),DMN,Koruna,CZK,1,106,eur,151,de,,,,,,0,0,1,0,0,0,D3,1
+D4,East Asia & Pacific (IDA-eligible countries),DEA,Koruna,CZK,1,106,eur,151,de,,,,,,0,0,1,0,0,0,D4,1
+D5,South Asia (IDA-eligible countries),DSA,Koruna,CZK,1,106,eur,151,de,,,,,,0,0,1,0,0,0,D5,1
+D6,Sub-Saharan Africa (IDA-eligible countries),DSS,Koruna,CZK,1,106,eur,151,de,,,,,,0,0,1,0,0,0,D6,1
+D7,Europe & Central Asia (IDA-eligible countries),DEC,,,,106,,,,,,,,,0,0,1,0,0,0,D7,1
+D8,IDA countries classified as Fragile Situations,DFS,Koruna,CZK,1,106,eur,151,de,,,,,,0,0,1,0,0,0,D8,1
+D9,IDA countries not classified as Fragile Situations,DNF,Koruna,CZK,1,106,eur,151,de,,,,,,0,0,1,0,0,0,D9,1
+DE,Germany,DEU,Euro,EUR,0,225,eur,155,de,Z7,,XD,Berlin,XX,0,1,1,1,0,0,DE,0
+DJ,Djibouti,DJI,Franc,DJF,0,57,mena,14,fr,ZQ,XQ,XN,Djibouti,XI,0,1,1,0,0,0,DJ,0
+DK,Denmark,DNK,Krone,DKK,0,78,eur,154,sc,Z7,,XD,Copenhagen,XX,0,1,1,1,0,0,DK,0
+DM,Dominica,DMA,,,,,,,,ZJ,XJ,XT,Roseau,XH,0,0,1,0,0,0,DM,0
+DO,Dominican Republic,DOM,Peso,DOP,0,83,cam,29,fr,ZJ,XJ,XT,Santo Domingo,XF,0,1,1,1,0,0,DO,0
+DZ,Algeria,DZA,Dinar,DZD,0,580,mena,15,fr,ZQ,XQ,XT,Algiers,XF,0,1,1,1,0,0,DZ,0
+EC,Ecuador,ECU,Dollar,USD,0,197,sam,5,fr,ZJ,XJ,XT,Quito,XF,0,1,1,1,0,0,EC,0
+EE,Estonia,EST,,,,80,,,,Z7,,XD,Tallinn,XX,0,1,1,1,0,0,EE,0
+EG,"Egypt, Arab Rep.",EGY,Pound,EGP,0,376,mena,15,fr,ZQ,XQ,XN,Cairo,XF,0,1,1,1,0,0,EG,0
+ER,Eritrea,ERI,,,,,,,,ZG,ZF,XM,Asmara,XI,0,0,1,0,0,0,ER,0
+ES,Spain,ESP,Euro,EUR,0,268,eur,39,fr,Z7,,XD,Madrid,XX,0,1,1,1,0,0,ES,0
+ET,Ethiopia,ETH,Birr,ETB,1,399,ssaf,14,fr,ZG,ZF,XM,Addis Ababa,XI,0,1,1,1,0,0,ET,0
+EU,European Union,EUU,,,,,,,,,,,,,0,0,1,0,0,0,EU,1
+F1,Fragile and conflict affected situations,FCS,,,,,,,,,,,,,0,0,1,0,0,0,F1,1
+F6,IDA countries in Sub-Saharan Africa classified as fragile situations ,DSF,,,,,,,,,,,,,0,0,1,0,0,0,F6,1
+FI,Finland,FIN,Euro,EUR,0,218,eur,154,sc,Z7,,XD,Helsinki,XX,0,1,1,1,0,0,FI,0
+FJ,Fiji,FJI,,,,,,,,Z4,4E,XT,Suva,XF,0,0,1,1,0,0,FJ,0
+FM,"Micronesia, Fed. Sts.",FSM,Euro,EUR,0,,eur,39,fr,Z4,4E,XN,Palikir,XI,0,0,1,0,0,0,FM,0
+FO,Faroe Islands,FRO,,,,,,,,Z7,,XD,Torshavn,XX,0,0,1,0,0,0,FO,0
+FR,France,FRA,,,,278,,,,Z7,,XD,Paris,XX,0,1,1,1,0,0,FR,0
+GA,Gabon,GAB,,,,195,,,,ZG,ZF,XT,Libreville,XF,0,1,1,1,0,0,GA,0
+GB,United Kingdom,GBR,,,,186,,,,Z7,,XD,London,XX,0,1,1,1,0,0,GB,0
+GD,Grenada,GRD,,,,,,39,,ZJ,XJ,XT,Saint George's,XH,0,0,1,0,0,0,GD,0
+GE,Georgia,GEO,Dirham,AED,0,99,mena,145,uk,Z7,7E,XN,Tbilisi,XF,0,1,1,1,0,0,GE,0
+GH,Ghana,GHA,Afghani,AFN,1,184,sasia,34,fr,ZG,ZF,XN,Accra,XI,0,1,1,1,0,0,GH,0
+GI,Gibraltar,GIB,,,,,,,,Z7,,XD,,XX,0,0,1,0,0,0,GI,0
+GL,Greenland,GRL,Lek,ALL,0,,eur,39,fr,Z7,,XD,Nuuk,XX,0,0,1,0,0,0,GL,0
+GM,"Gambia, The",GMB,,,,40,,,,ZG,ZF,XM,Banjul,XI,0,1,1,1,0,0,GM,0
+GN,Guinea,GIN,Franc,GNF,0,186,ssaf,11,fr,ZG,ZF,XM,Conakry,XI,0,1,1,1,0,0,GN,0
+GQ,Equatorial Guinea,GNQ,Franc,CFA,0,63,ssaf,17,fr,ZG,ZF,XT,Malabo,XF,0,1,1,0,0,0,GQ,0
+GR,Greece,GRC,Euro,EUR,0,136,eur,39,fr,Z7,,XD,Athens,XX,0,1,1,1,0,0,GR,0
+GT,Guatemala,GTM,Quetzal ,GTQ,0,124,cam,13,fr,ZJ,XJ,XN,Guatemala City,XF,0,1,1,1,0,0,GT,0
+GU,Guam,GUM,,,,,,,,Z4,,XD,Agana,XX,0,0,1,0,0,0,GU,0
+GW,Guinea-Bissau,GNB,Franc,CFA,0,71,ssaf,11,fr,ZG,ZF,XM,Bissau,XI,0,1,1,1,0,0,GW,0
+GY,Guyana,GUY,Dollar,GYD,0,174,sam,5,uk,ZJ,XJ,XT,Georgetown,XI,0,1,1,1,0,0,GY,0
+HK,"Hong Kong SAR, China",HKG,Dollar,HKD,0,12,easia,30,uk,Z4,,XD,,XX,0,1,1,1,0,0,HK,0
+HN,Honduras,HND,Lempira,HNL,0,126,cam,13,fr,ZJ,XJ,XN,Tegucigalpa,XI,0,1,1,1,0,0,HN,0
+HR,Croatia,HRV,,,,89,,,,Z7,7E,XT,Zagreb,XF,0,1,1,1,0,0,HR,0
+HT,Haiti,HTI,Gourde,HTG,0,63,cam,29,fr,ZJ,XJ,XM,Port-au-Prince,XI,0,1,1,1,0,0,HT,0
+HU,Hungary,HUN,Forint,HUF,1,115,eur,151,de,Z7,,XD,Budapest,XX,0,1,1,1,0,0,HU,0
+ID,Indonesia,IDN,Rupiah,IDR,0,523,easia,35,fr,Z4,4E,XN,Jakarta,XF,0,1,1,1,0,0,ID,0
+IE,Ireland,IRL,Euro,EUR,0,100,eur,154,uk,Z7,,XD,Dublin,XX,0,1,1,1,0,0,IE,0
+IL,Israel,ISR,Shekel,ILS,0,55,mena,145,uk,ZQ,,XD,,XX,0,1,1,1,0,0,IL,0
+IM,Isle of Man,IMN,,,,,,,,Z7,,XD,Douglas,XX,0,0,1,0,0,0,IM,0
+IN,India,IND,Rupi,INR,0,682,sasia,34,uk,8S,8S,XN,New Delhi,XF,0,1,1,1,0,0,IN,0
+IQ,Iraq,IRQ,Dinar,IQD,0,249,mena,145,fr,ZQ,XQ,XT,Baghdad,XF,0,1,1,0,0,0,IQ,0
+IR,"Iran, Islamic Rep.",IRN,Rial,IRR,0,483,mena,34,fr,ZQ,XQ,XT,Tehran,XF,0,1,1,1,0,0,IR,0
+IS,Iceland,ISL,,,,121,,,,Z7,,XD,Reykjavik,XX,0,1,1,1,0,0,IS,0
+IT,Italy,ITA,Euro,EUR,0,206,eur,39,fr,Z7,,XD,Rome,XX,0,1,1,1,0,0,IT,0
+JG,Channel Islands,CHI,,,,,,,,Z7,,XD,,XX,0,0,1,0,0,0,JG,0
+JM,Jamaica,JAM,Dollar,JMD,0,39,cam,29,uk,ZJ,XJ,XT,Kingston,XF,0,1,1,1,0,0,JM,0
+JO,Jordan,JOR,Dinar,JOD,0,114,mena,145,fr,ZQ,XQ,XN,Amman,XF,0,1,1,1,0,0,JO,0
+JP,Japan,JPN,Yen,JPY,0,231,easia,30,de,Z4,,XD,Tokyo,XX,0,1,1,1,0,0,JP,0
+KE,Kenya,KEN,Shilling ,KES,0,287,ssaf,14,uk,ZG,ZF,XN,Nairobi,XH,0,1,1,1,0,0,KE,0
+KG,Kyrgyz Republic,KGZ,Som,KGS,1,168,casia,143,fr,Z7,7E,XN,Bishkek,XI,0,1,1,1,0,0,KG,0
+KH,Cambodia,KHM,Riel,KHR,0,160,easia,35,fr,Z4,4E,XN,Phnom Penh,XI,0,1,1,1,0,0,KH,0
+KI,Kiribati,KIR,,,,,,,,Z4,4E,XN,Tarawa,XI,0,0,1,0,0,0,KI,0
+KM,Comoros,COM,,,,16,,,,ZG,ZF,XM,Moroni,XI,0,1,1,0,0,0,KM,0
+KN,St. Kitts and Nevis,KNA,,,,,,,,ZJ,,XD,Basseterre,XF,0,0,1,0,0,0,KN,0
+KP,"Korea, Dem. People’s Rep.",PRK,,,,,,,,Z4,4E,XM,Pyongyang,XX,0,0,1,0,0,0,KP,0
+KR,"Korea, Rep.",KOR,Won,KRW,0,119,easia,30,de,Z4,,XD,Seoul,XX,0,1,1,1,0,0,KR,0
+KW,Kuwait,KWT,Dinar,KWD,0,50,mena,145,fr,ZQ,,XD,Kuwait City,XX,0,1,1,1,0,0,KW,0
+KY,Cayman Islands,CYM,,,,,,,,ZJ,,XD,George Town,XX,0,0,1,0,0,0,KY,0
+KZ,Kazakhstan,KAZ,Tenge,KZT,1,620,casia,143,fr,Z7,7E,XT,Astana,XF,0,1,1,1,0,0,KZ,0
+L4,Latin America and the Caribbean,LCR,Tenge,KZT,1,620,casia,143,fr,,,,,,0,0,1,0,0,0,L4,1
+L5,Andean Region,ANR,Tenge,KZT,1,620,casia,143,fr,,,,,,0,0,1,0,0,0,L5,1
+L6,Central America,MCA,Tenge,KZT,1,620,casia,143,fr,,,,,,0,0,1,0,0,0,L6,1
+L7,Southern Cone,SCE,,,,620,,39,,,,,,,0,0,1,0,0,0,L7,1
+LA,Lao PDR,LAO,Kip,LAK,1,183,easia,35,fr,Z4,4E,XN,Vientiane,XI,0,1,1,1,0,0,LA,0
+LB,Lebanon,LBN,Lira,LBP,0,38,mena,145,fr,ZQ,XQ,XT,Beirut,XF,0,1,1,1,0,0,LB,0
+LC,St. Lucia,LCA,,,,,,,,ZJ,XJ,XT,Castries,XH,0,0,1,0,0,0,LC,0
+LI,Liechtenstein,LIE,,,,,,,,Z7,,XD,Vaduz,XX,0,0,1,0,0,0,LI,0
+LK,Sri Lanka,LKA,Rupi,LKR,0,96,sasia,34,uk,8S,8S,XN,Colombo,XF,0,1,1,1,0,0,LK,0
+LR,Liberia,LBR,Dollar,LRD,0,126,ssaf,11,uk,ZG,ZF,XM,Monrovia,XI,0,1,1,1,0,0,LR,0
+LS,Lesotho,LSO,Loti,LSL,1,66,ssaf,18,uk,ZG,ZF,XN,Maseru,XI,0,1,1,1,0,0,LS,0
+LT,Lithuania,LTU,Euro,EUR,0,96,eur,154,fr,Z7,,XD,Vilnius,XX,0,1,1,1,0,0,LT,0
+LU,Luxembourg,LUX,Euro,EUR,1,19,eur,155,fr,Z7,,XD,Luxembourg,XX,0,1,1,1,0,0,LU,0
+LV,Latvia,LVA,Dirham,AED,0,96,mena,145,uk,Z7,,XD,Riga,XX,0,1,1,1,0,0,LV,0
+LY,Libya,LBY,Dinar,LYD,0,499,mena,15,fr,ZQ,XQ,XT,Tripoli,XF,0,1,1,1,0,0,LY,0
+M1,Middle East (developing only),MDE,Dinar,LYD,0,499,mena,15,fr,,,,,,0,0,1,0,0,0,M1,1
+M2,North Africa,NAF,Dinar,LYD,0,499,mena,15,fr,,,,,,0,0,1,0,0,0,M2,1
+MA,Morocco,MAR,Dirham,MAD,0,317,mena,15,fr,ZQ,XQ,XN,Rabat,XF,0,1,1,1,0,0,MA,0
+MC,Monaco,MCO,,,,,,,,Z7,,XD,Monaco,XX,0,0,1,0,0,0,MC,0
+MD,Moldova,MDA,Leu,MDL,1,69,eur,151,fr,Z7,7E,XN,Chisinau,XH,0,1,1,1,0,0,MD,0
+ME,Montenegro,MNE,Euro,EUR,0,120,eur,39,fr,Z7,7E,XT,Podgorica,XF,0,1,1,1,0,0,ME,0
+MF,St. Martin (French part),MAF,,,,,,,,ZJ,,XD,Marigot,XX,0,0,1,0,0,0,MF,0
+MG,Madagascar,MDG,Ariary,MGA,0,288,ssaf,14,fr,ZG,ZF,XM,Antananarivo,XI,0,1,1,1,0,0,MG,0
+MH,Marshall Islands,MHL,Afghani,AFN,1,,sasia,34,fr,Z4,4E,XT,Majuro,XI,0,0,1,0,0,0,MH,0
+MK,"Macedonia, FYR",MKD,Dinar,MKD,1,60,eur,39,fr,Z7,7E,XT,Skopje,XF,0,1,1,1,0,0,MK,0
+ML,Mali,MLI,Franc,CFA,1,419,ssaf,11,fr,ZG,ZF,XM,Bamako,XI,0,1,1,1,0,0,ML,0
+MM,Myanmar,MMR,Kyat,MMK,0,310,easia,35,uk,Z4,4E,XN,Naypyidaw,XI,0,1,1,1,0,0,MM,0
+MN,Mongolia,MNG,Tughrik,MNT,1,471,easia,30,de,Z4,4E,XN,Ulaanbaatar,XH,0,1,1,1,0,0,MN,0
+MO,"Macao SAR, China",MAC,,,,,,,,Z4,,XD,,XX,0,0,1,0,0,0,MO,0
+MP,Northern Mariana Islands,MNP,,,,,,,,Z4,,XD,Saipan,XX,0,0,1,0,0,0,MP,0
+MR,Mauritania,MRT,Ugiya,MRO,0,382,ssaf,11,fr,ZG,ZF,XN,Nouakchott,XI,0,1,1,1,0,0,MR,0
+MT,Malta,MLT,Euro,EUR,0,7,eur,39,fr,ZQ,,XD,Valletta,XX,0,1,1,1,0,0,MT,0
+MU,Mauritius,MUS,Rupi,MUR,0,17,ssaf,14,fr,ZG,ZF,XT,Port Louis,XF,0,1,1,1,0,0,MU,0
+MV,Maldives,MDV,,,,,,,,8S,8S,XT,Male,XI,0,0,1,0,0,0,MV,0
+MW,Malawi,MWI,Kwacha,MWK,1,129,ssaf,14,uk,ZG,ZF,XM,Lilongwe,XI,0,1,1,1,0,0,MW,0
+MX,Mexico,MEX,Peso,MXN,0,528,nam,13,fr,ZJ,XJ,XT,Mexico City,XF,0,1,1,1,0,0,MX,0
+MY,Malaysia,MYS,Ringgit,MYR,0,216,easia,35,uk,Z4,4E,XT,Kuala Lumpur,XF,0,1,1,1,0,0,MY,0
+MZ,Mozambique,MOZ,Metical,MZN,0,337,ssaf,14,fr,ZG,ZF,XM,Maputo,XI,0,1,1,1,0,0,MZ,0
+N6,IDA countries in Sub-Saharan Africa not classified as fragile situations ,DNS,Metical,MZN,0,337,ssaf,14,fr,,,,,,0,0,1,0,0,0,N6,1
+NA,Namibia,NAM,Dollar,NAD,0,342,ssaf,18,uk,ZG,ZF,XT,Windhoek,XF,0,1,1,1,0,0,NA,0
+NC,New Caledonia,NCL,,,,,,,,Z4,,XD,Noum'ea,XX,0,0,1,0,0,0,NC,0
+NE,Niger,NER,Franc,CFA,1,423,ssaf,11,fr,ZG,ZF,XM,Niamey,XI,0,1,1,1,0,0,NE,0
+NG,Nigeria,NGA,Naira,NGN,0,362,ssaf,11,uk,ZG,ZF,XN,Abuja,XH,0,1,1,1,0,0,NG,0
+NI,Nicaragua,NIC,Lek,ALL,0,136,eur,39,fr,ZJ,XJ,XN,Managua,XI,0,1,1,1,0,0,NI,0
+NL,Netherlands,NLD,Euro,EUR,0,77,eur,155,fr,Z7,,XD,Amsterdam,XX,0,1,1,1,0,0,NL,0
+NO,Norway,NOR,Krone,NOK,0,214,eur,154,sc,Z7,,XD,Oslo,XX,0,1,1,1,0,0,NO,0
+NP,Nepal,NPL,Rupi,NPR,1,144,sasia,34,uk,8S,8S,XM,Kathmandu,XI,0,1,1,1,0,0,NP,0
+NR,Nauru,NRU,,,,,,,,Z4,4E,XT,Yaren District,XF,0,0,1,0,0,0,NR,0
+NZ,New Zealand,NZL,Dollar,NZD,0,195,easia,53,uk,Z4,,XD,Wellington,XX,0,1,1,1,0,0,NZ,0
+O6,"Resource rich Sub-Saharan Africa countries, of which oil exporters",RSO,Dollar,NZD,0,195,easia,53,uk,,,,,,0,0,1,0,0,0,O6,1
+OE,OECD members,OED,,,,,,,,,,,,,0,0,1,0,0,0,OE,1
+OM,Oman,OMN,Rial,OMR,0,173,mena,145,fr,ZQ,,XD,Muscat,XX,0,1,1,1,0,0,OM,0
+PA,Panama,PAN,Balboa,PAB,0,103,cam,13,fr,ZJ,XJ,XT,Panama City,XF,0,1,1,1,0,0,PA,0
+PE,Peru,PER,,,,426,,,,ZJ,XJ,XT,Lima,XF,0,1,1,1,0,0,PE,0
+PF,French Polynesia,PYF,Kwanza,AOA,0,,ssaf,17,uk,Z4,,XD,Papeete,XX,0,0,1,0,0,0,PF,0
+PG,Papua New Guinea,PNG,Peso,ARS,0,256,sam,5,fr,Z4,4E,XN,Port Moresby,XH,0,1,1,1,0,0,PG,0
+PH,Philippines,PHL,,,,206,,,,Z4,4E,XN,Manila,XF,0,1,1,1,0,0,PH,0
+PK,Pakistan,PAK,Euro,EUR,1,353,eur,155,de,8S,8S,XN,Islamabad,XH,0,1,1,1,0,0,PK,0
+PL,Poland,POL,Dollar,AUD,0,210,easia,53,uk,Z7,,XD,Warsaw,XF,0,1,1,1,0,0,PL,0
+PR,Puerto Rico,PRI,,,,,,,,ZJ,,XD,San Juan,XX,0,0,1,0,0,0,PR,0
+PS,West Bank and Gaza,PSE,Manat,AZN,1,,eur,145,fr,ZQ,XQ,XN,,XX,0,0,1,0,0,0,PS,0
+PT,Portugal,PRT,Manat,AZN,1,114,eur,145,fr,Z7,,XD,Lisbon,XX,0,1,1,1,0,0,PT,0
+PW,Palau,PLW,Manat,AZN,1,,eur,145,fr,Z4,,XD,Koror,XF,0,0,1,0,0,0,PW,0
+PY,Paraguay,PRY,Kwanza,AOA,0,240,ssaf,17,uk,ZJ,XJ,XT,Asuncion,XF,0,1,1,1,0,0,PY,0
+QA,Qatar,QAT,Rial,QAR,0,40,mena,145,fr,ZQ,,XD,Doha,XX,0,1,1,1,0,0,QA,0
+R6,Resource rich Sub-Saharan Africa countries,RRS,Rial,QAR,0,40,mena,145,fr,,,,,,0,0,1,0,0,0,R6,1
+RO,Romania,ROU,,,,,eur,151,fr,Z7,7E,XT,Bucharest,XF,0,1,1,1,0,0,RO,0
+RS,Serbia,SRB,Dinar,RSD,1,120,eur,39,fr,Z7,7E,XT,Belgrade,XF,0,1,1,1,0,0,RS,0
+RU,Russian Federation,RUS,Ruble,RUB,0,1554,eur,151,fr,Z7,7E,XT,Moscow,XF,0,1,1,1,0,0,RU,0
+RW,Rwanda,RWA,Franc,RWF,1,61,ssaf,14,fr,ZG,ZF,XM,Kigali,XI,0,1,1,1,0,0,RW,0
+S1,Small states,SST,,,,,,,,,,,,,0,0,1,0,0,0,S1,1
+S2,Pacific island small states,PSS,,,,,,,,,,,,,0,0,1,0,0,0,S2,1
+S3,Caribbean small states,CSS,,,,,,,,,,,,,0,0,1,0,0,0,S3,1
+S4,Other small states,OSS,Peso,ARS,0,,sam,5,fr,,,,,,0,0,1,0,0,0,S4,1
+SA,Saudi Arabia,SAU,Rial,SAR,0,552,mena,145,uk,ZQ,,XD,Riyadh,XX,0,1,1,1,0,0,SA,0
+SB,Solomon Islands,SLB,,,,,,,,Z4,4E,XN,Honiara,XI,0,0,1,0,0,0,SB,0
+SC,Seychelles,SYC,,,,,,,,ZG,,XD,Victoria,XF,0,0,1,1,0,0,SC,0
+SD,Sudan,SDN,Pound,SDG,0,595,ssaf,15,uk,ZG,ZF,XN,Khartoum,XI,0,1,1,0,0,0,SD,0
+SE,Sweden,SWE,Krone,SEK,0,252,eur,154,sc,Z7,,XD,Stockholm,XX,0,1,1,1,0,0,SE,0
+SG,Singapore,SGP,Dollar,SGD,0,10,easia,35,uk,Z4,,XD,Singapore,XX,0,1,1,1,0,0,SG,0
+SI,Slovenia,SVN,Euro,EUR,0,54,eur,39,de,Z7,,XD,Ljubljana,XX,0,1,1,1,0,0,SI,0
+SK,Slovak Republic,SVK,Euro,EUR,1,83,eur,151,de,Z7,,XD,Bratislava,XX,0,1,1,1,0,0,SK,0
+SL,Sierra Leone,SLE,Leone,SLL,0,102,ssaf,11,uk,ZG,ZF,XM,Freetown,XI,0,1,1,1,0,0,SL,0
+SM,San Marino,SMR,,,,,,,,Z7,,XD,San Marino,XX,0,0,1,0,0,0,SM,0
+SN,Senegal,SEN,Franc,CFA,0,167,ssaf,11,fr,ZG,ZF,XM,Dakar,XI,0,1,1,1,0,0,SN,0
+SO,Somalia,SOM,,,,,,,,ZG,ZF,XM,Mogadishu,XI,0,0,1,0,0,0,SO,0
+SR,Suriname,SUR,Dollar,SRD,0,152,sam,5,fr,ZJ,XJ,XT,Paramaribo,XF,0,1,1,1,0,0,SR,0
+SS,South Sudan,SSD,,,,,,,,ZG,ZF,XM,Juba,XI,0,0,1,0,0,0,SS,0
+ST,Sao Tome and Principe,STP,,,,,,,,ZG,ZF,XN,Sao Tome,XI,0,0,1,0,0,0,ST,0
+SV,El Salvador,SLV,Dollar,USD,0,55,cam,13,fr,ZJ,XJ,XN,San Salvador,XF,0,1,1,1,0,0,SV,0
+SX,Sint Maarten (Dutch part),SXM,,,,,,,,ZJ,,XD,Philipsburg,XX,0,0,1,0,0,0,SX,0
+SY,Syrian Arab Republic,SYR,Pound,SYP,0,161,mena,145,fr,ZQ,XQ,XN,Damascus,XI,0,1,1,1,0,0,SY,0
+SZ,Swaziland,SWZ,Lilangeni,SZL,1,50,ssaf,18,uk,ZG,ZF,XN,Mbabane,XF,0,1,1,1,0,0,SZ,0
+T2,Latin America & the Caribbean (IDA & IBRD countries),TLA,Euro,EUR,1,,eur,155,de,,,,,,0,0,1,0,0,0,T2,1
+T3,Middle East & North Africa (IDA & IBRD countries),TMN,,,,,,,,,,,,,0,0,1,0,0,0,T3,1
+T4,East Asia & Pacific (IDA & IBRD countries),TEA,,,,,,,,,,,,,0,0,1,0,0,0,T4,1
+T5,South Asia (IDA & IBRD),TSA,,,,,,,,,,,,,0,0,1,0,0,0,T5,1
+T6,Sub-Saharan Africa (IDA & IBRD countries),TSS,,,,,,,,,,,,,0,0,1,0,0,0,T6,1
+T7,Europe & Central Asia (IDA & IBRD countries),TEC,,,,,,,,,,,,,0,0,1,0,0,0,T7,1
+TC,Turks and Caicos Islands,TCA,,,,,,,,ZJ,,XD,Grand Turk,XX,0,0,1,0,0,0,TC,0
+TD,Chad,TCD,Franc,CFA,1,426,ssaf,17,fr,ZG,ZF,XM,N'Djamena,XI,0,1,1,1,0,0,TD,0
+TG,Togo,TGO,Franc,CFA,0,90,ssaf,11,fr,ZG,ZF,XM,Lome,XI,0,1,1,1,0,0,TG,0
+TH,Thailand,THA,Baht,THB,0,269,easia,35,uk,Z4,4E,XT,Bangkok,XF,0,1,1,1,0,0,TH,0
+TJ,Tajikistan,TJK,Dollar,AUD,0,142,easia,53,uk,Z7,7E,XN,Dushanbe,XI,0,1,1,1,0,0,TJ,0
+TL,Timor-Leste,TLS,,,,,easia,35,fr,Z4,4E,XN,Dili,XH,0,1,1,1,0,0,TL,0
+TM,Turkmenistan,TKM,Manat,TMT,1,263,casia,143,fr,Z7,7E,XT,Ashgabat,XF,0,1,1,0,0,0,TM,0
+TN,Tunisia,TUN,Dinar,TND,0,152,mena,15,fr,ZQ,XQ,XN,Tunis,XF,0,1,1,1,0,0,TN,0
+TO,Tonga,TON,,,,,,,,Z4,4E,XT,Nuku'alofa,XI,0,0,1,0,0,0,TO,0
+TR,Turkey,TUR,Lira,TRY,0,332,eur,145,fr,Z7,7E,XT,Ankara,XF,0,1,1,1,0,0,TR,0
+TT,Trinidad and Tobago,TTO,Dollar,TTD,0,27,cam,29,uk,ZJ,,XD,Port-of-Spain,XF,0,1,1,1,0,0,TT,0
+TV,Tuvalu,TUV,,,,,,,,Z4,4E,XT,Funafuti,XI,0,0,1,0,0,0,TV,0
+TW,"Taiwan, China",TWN,,,,,,,,Z4,,XD,,XX,0,0,1,1,0,0,TW,0
+TZ,Tanzania,TZA,Shilling,TZS,0,366,ssaf,14,uk,ZG,ZF,XM,Dodoma,XI,0,1,1,1,0,0,TZ,0
+UA,Ukraine,UKR,,,,292,,,,Z7,7E,XN,Kiev,XF,0,1,1,1,0,0,UA,0
+UG,Uganda,UGA,Shilling ,UGX,1,185,ssaf,14,uk,ZG,ZF,XM,Kampala,XI,0,1,1,1,0,0,UG,0
+US,United States,USA,Dollar,USD,0,1161,nam,21,uk,XU,,XD,Washington D.C.,XX,0,1,1,1,1,0,US,0
+UY,Uruguay,URY,Peso,UYU,0,158,sam,5,fr,ZJ,,XD,Montevideo,XF,0,1,1,1,0,0,UY,0
+UZ,Uzbekistan,UZB,Som,UZS,1,252,casia,143,fr,Z7,7E,XN,Tashkent,XH,0,1,1,0,0,0,UZ,0
+V1,Pre-demographic dividend,PRE,,,,,,,,,,,,,0,0,1,0,0,0,V1,1
+V2,Early-demographic dividend,EAR,,,,,,,,,,,,,0,0,1,0,0,0,V2,1
+V3,Late-demographic dividend,LTE,,,,,,,,,,,,,0,0,1,0,0,0,V3,1
+V4,Post-demographic dividend,PST,,,,,,,,,,,,,0,0,1,0,0,0,V4,1
+VC,St. Vincent and the Grenadines,VCT,,,,,,,,ZJ,XJ,XT,Kingstown,XH,0,0,1,0,0,0,VC,0
+VE,"Venezuela, RB",VEN,Manat,AZN,1,359,eur,145,fr,ZJ,XJ,XT,Caracas,XF,0,1,1,1,0,0,VE,0
+VG,British Virgin Islands,VGB,,,,,,,,ZJ,,XD,Road Town,XX,0,0,1,0,0,0,VG,0
+VI,Virgin Islands (U.S.),VIR,,,,,,,,ZJ,,XD,Charlotte Amalie,XX,0,0,1,0,0,0,VI,0
+VN,Vietnam,VNM,Dong,VND,0,216,easia,35,fr,Z4,4E,XN,Hanoi,XF,0,1,1,1,0,0,VN,0
+VU,Vanuatu,VUT,,,,,,,,Z4,4E,XN,Port-Vila,XI,0,0,1,0,0,0,VU,0
+WS,Samoa,WSM,,,,,,,,Z4,4E,XT,Apia,XI,0,0,1,0,0,0,WS,0
+XC,Euro area,EMU,,,,,,,,,,,,,0,0,1,0,0,0,XC,1
+XD,High income,HIC,,,,,,,,,,,,,0,0,1,0,0,0,XD,1
+XE,Heavily indebted poor countries (HIPC),HPC,,,,,,,,,,,,,0,0,1,0,0,0,XE,1
+XF,IBRD only,IBD,,,,,,,,,,,,,0,0,1,0,0,0,XF,1
+XG,IDA total,IDA,Manat,AZN,1,,eur,145,fr,,,,,,0,0,1,0,0,0,XG,1
+XH,IDA blend,IDB,,,,,,,,,,,,,0,0,1,0,0,0,XH,1
+XI,IDA only,IDX,,,,,,,,,,,,,0,0,1,0,0,0,XI,1
+XJ,Latin America & Caribbean (excluding high income),LAC,,,,,,,,,,,,,0,0,1,0,0,0,XJ,1
+XK,Kosovo,XKX,,,,,eur,151,de,Z7,7E,XN,Pristina,XI,0,1,1,0,0,0,XK,0
+XL,Least developed countries: UN classification,LDC,,,,,,,,,,,,,0,0,1,0,0,0,XL,1
+XM,Low income,LIC,,,,,,,,,,,,,0,0,1,0,0,0,XM,1
+XN,Lower middle income,LMC,,,,,,,,,,,,,0,0,1,0,0,0,XN,1
+XO,Low & middle income,LMY,,,,,,,,,,,,,0,0,1,0,0,0,XO,1
+XP,Middle income,MIC,,,,,,,,,,,,,0,0,1,0,0,0,XP,1
+XQ,Middle East & North Africa (excluding high income),MNA,Manat,AZN,1,,eur,145,fr,,,,,,0,0,1,0,0,0,XQ,1
+XT,Upper middle income,UMC,,,,,,,,,,,,,0,0,1,0,0,0,XT,1
+XU,North America,NAC,,,,,,,,,,,,,0,0,1,0,0,0,XU,1
+XY,Not classified,INX,,,,,,,,,,,,,0,0,1,0,0,0,XY,1
+YE,"Yemen, Rep.",YEM,Rial,YER,0,278,mena,145,fr,ZQ,XQ,XN,Sana'a,XI,0,1,1,1,0,0,YE,0
+Z4,East Asia & Pacific,EAS,,,,,,,,,,,,,0,0,1,0,0,0,Z4,1
+Z7,Europe & Central Asia,ECS,,,,,,,,,,,,,0,0,1,0,0,0,Z7,1
+ZA,South Africa,ZAF,Rand,ZAR,0,415,ssaf,18,uk,ZG,ZF,XT,Pretoria,XF,0,1,1,1,0,0,ZA,0
+ZB,"IBRD, including blend",IBB,Rand,ZAR,0,415,ssaf,18,uk,,,,,,0,0,1,0,0,0,ZB,1
+ZF,Sub-Saharan Africa (excluding high income),SSA,,,,,,,,,,,,,0,0,1,0,0,0,ZF,1
+ZG,Sub-Saharan Africa ,SSF,,,,,,,,,,,,,0,0,1,0,0,0,ZG,1
+ZJ,Latin America & Caribbean ,LCN,Manat,AZN,1,,eur,145,fr,,,,,,0,0,1,0,0,0,ZJ,1
+ZM,Zambia,ZMB,Manat,AZN,1,326,eur,145,fr,ZG,ZF,XN,Lusaka,XI,0,1,1,1,0,0,ZM,0
+ZQ,Middle East & North Africa,MEA,Manat,AZN,1,,eur,145,fr,,,,,,0,0,1,0,0,0,ZQ,1
+ZT,IDA & IBRD total,IBT,,,,,,,,,,,,,0,0,1,0,0,0,ZT,1
+ZW,Zimbabwe,ZWE,Mark,BAM,0,235,eur,39,de,ZG,ZF,XM,Harare,XH,0,1,1,1,0,0,ZW,0
